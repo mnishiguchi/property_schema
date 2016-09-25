@@ -1,11 +1,7 @@
 require "active_support/all"
 require "awesome_print"
-
-# Adopted from Rails
-# http://apidock.com/rails/Hash/from_xml/class
-def from_xml(xml, disallowed_types = nil)
-  ActiveSupport::XMLConverter.new(xml, disallowed_types).to_h
-end
+require "hashie"
+require "pry"
 
 
 =begin
@@ -19,18 +15,17 @@ Usage:
 
 class MitsParser
 
-  def initialize(feed_xml)
+  def initialize(parsed_feed)
 
-    # Parse the XML data.
-    parsed_doc = Nokogiri::XML(feed_xml)
+    puts MitsParser.dig("Array")
 
     # Determine the schema.
-    if has_files_nested_within_floorplan?(parsed_doc)
-      @parsed = ApartmentSchema::WithNestedFiles.new(feed_xml).parse
-    elsif has_linked_files?(parsed_doc)
-      @parsed = ApartmentSchema::WithLinkedFiles.new(feed_xml).parse
+    if has_files_nested_within_floorplan?(parsed_feed)
+      @parsed = ApartmentSchema::WithNestedFiles.new(parsed_feed).parse
+    elsif has_linked_files?(parsed_feed)
+      @parsed = ApartmentSchema::WithLinkedFiles.new(parsed_feed).parse
     else
-      @parsed = ApartmentSchema::Else.new(feed_xml).parse
+      @parsed = ApartmentSchema::Else.new(parsed_feed).parse
     end
   end
 
@@ -38,16 +33,92 @@ class MitsParser
     @parsed
   end
 
-  def has_files_nested_within_floorplan?(parsed_doc)
-    !!parsed_doc.at_xpath("//Floorplan//File") ||
-    !!parsed_doc.at_xpath("//Floorplan//Slideshow") ||
-    !!parsed_doc.at_xpath("//Floorplan//PhotoSet")
+  def has_files_nested_within_floorplan?(parsed_feed)
+    # !!parsed_feed.at_xpath("//Floorplan//File") ||
+    # !!parsed_feed.at_xpath("//Floorplan//Slideshow") ||
+    # !!parsed_feed.at_xpath("//Floorplan//PhotoSet")
   end
 
-  def has_linked_files?(parsed_doc)
-    !!parsed_doc.xpath("//Property/Floorplan")[0]&.at_xpath("@id") &&
-    !!parsed_doc.xpath("//Property/File")[0]&.at_xpath("@id")
+  def has_linked_files?(parsed_feed)
+    # !!parsed_feed.xpath("//Property/Floorplan")[0]&.at_xpath("@id") &&
+    # !!parsed_feed.xpath("//Property/File")[0]&.at_xpath("@id")
   end
+
+
+  # =======================================================
+  # Utility class methods
+  # =======================================================
+
+
+  def self.dig_any(hash, default_value, *paths)
+    paths.each do |paths|
+      result = MitsParser.dig(hash, paths)
+      result = result.compact.flatten if result.is_a?(Array)
+      next if result.blank?
+      return result
+    end
+    default_value
+  end
+
+
+  # Retrieves the value object of the specified paths. If the specified path
+  # contains an array, travarses and search on all the elements.
+  # - param data - hash, array or string
+  # - param paths - unlimited arrays of strings ["", ""], ["", ""]
+  # - return a hash of path => value
+  def self.dig_all(hash, *paths)
+    raise ArgumentError.new("paths must be an array") unless paths.is_a?(Array)
+
+    {}.tap do |results|
+      paths.each do |paths|
+        result = MitsParser.dig(hash, paths)
+        result = result.compact.flatten if result.is_a?(Array)
+        next if result.blank?
+        results[paths.join.underscore.to_sym] = result
+      end
+    end
+  end
+
+
+  # Retrieves the value object of the specified path. If the specified path
+  # contains an array, travarses and search on all the elements.
+  # - param data - a hash, array or string
+  # - param path - an array of ["path", "to", "node"]
+  # - return value if any datatype
+  # ---
+  # NOTE: This method does something similar to what Hash#dig does but
+  # the difference is this method proceed recursively even if the path contains
+  # arrays.
+  def self.dig(data, path)
+    raise ArgumentError.new("path must be an array") unless path.is_a?(Array)
+
+    return data if path.empty?  # Base case
+
+    # Pop a node from the path list.
+    current_node, remaining_path = path[0], path[1..-1]
+
+    # Continue the process according to the current condition.
+    if current_node == "Array"
+      # Recurse on all the nodes in the array.
+      data.map { |h| MitsParser.dig(h, remaining_path) }
+    elsif data.is_a?(Hash) && (new_data = data[current_node])
+      # Recurse on the remaining path.
+      MitsParser.dig(new_data, remaining_path)
+    else
+      []
+    end
+  end
+
+
+  # Try freaking everything...ensures we pick up some weird keys in Floorplan
+  def self.brute_force_keys(key)
+    [key.singularize, key.pluralize].map do |r|
+      [r.titleize, r.camelize, r.underscore, r.tableize, r.humanize]
+    end.flatten.uniq
+  end
+
+
+
 end
 
 
@@ -59,11 +130,11 @@ module ApartmentSchema
   class Base
     attr_reader :properties
 
-    def initialize(parsed_doc)
+    def initialize(parsed_feed)
 
       puts "==> invoked: ApartmentSchema::Base"
 
-      @properties = from_xml(parsed_doc)
+      @properties = from_xml(parsed_feed)
 
     end
 
@@ -76,7 +147,7 @@ module ApartmentSchema
   end
 
   class WithNestedFiles < ApartmentSchema::Base
-    def initialize(parsed_doc)
+    def initialize(parsed_feed)
       super
 
       puts "==> invoked: ApartmentSchema::WithNestedFiles"
@@ -85,7 +156,7 @@ module ApartmentSchema
   end
 
   class WithLinkedFiles < ApartmentSchema::Base
-    def initialize(parsed_doc)
+    def initialize(parsed_feed)
       super
 
       puts "==> invoked: ApartmentSchema::WithLinkedFiles"
@@ -94,7 +165,7 @@ module ApartmentSchema
   end
 
   class Else < ApartmentSchema::Base
-    def initialize(parsed_doc)
+    def initialize(parsed_feed)
       super
 
       puts "==> invoked: ApartmentSchema::Else"

@@ -3,7 +3,6 @@ Minitest::Reporters.use!
 
 require 'awesome_print'
 require 'pry'
-require 'test_helper'
 require 'support/active_support'
 require 'support/webmock'
 
