@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<PhysicalProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:MITS="http://www.mitsproject.org/namespace">
+
+<Management id="2785">
+  <Name>Milestone Management</Name>
+  <WebSite>http://milestonecorporate1.prospectportal.com</WebSite>
+</Management>
+
+<Property managementID="2785">
+  <Identification Type="apartment" RentalType="">
+    <PrimaryID>42608</PrimaryID>
+    <MarketingName>Ellicott House</MarketingName>
+    <OwnerLegalName></OwnerLegalName>
+    <Address>
+      <Address1>4849 Connecticut Ave. NW</Address1>
+      <City>Washington</City>
+      <State>DC</State>
+      <Zip>20008</Zip>
+    </Address>
+    <Latitude>38.9531030</Latitude>
+    <Longitude>-77.0678660</Longitude>
+    <Phone>
+      <Number>2022447724</Number>
+    </Phone>
+    <Fax>
+      <Number>2022444906</Number>
+    </Fax>
+    <Email>info@ellicottliving.com</Email>
+  </Identification>
+  <Information>
+    <UnitCount>327</UnitCount>
+    <YearBuilt>1974</YearBuilt>
+    <LeaseLength>12 months</LeaseLength>
+    <OfficeHour>
+      <OpenTime>9:00 AM</OpenTime>
+      <CloseTime>6:00 PM</CloseTime>
+      <Day>Monday</Day>
+    </OfficeHour>
+    <OfficeHour>
+      <OpenTime>9:00 AM</OpenTime>
+      <CloseTime>6:00 PM</CloseTime>
+      <Day>Tuesday</Day>
+    </OfficeHour>
+    <OfficeHour>
+      <OpenTime>9:00 AM</OpenTime>
+      <CloseTime>6:00 PM</CloseTime>
+      <Day>Wednesday</Day>
+    </OfficeHour>
+    <OfficeHour>
+      <OpenTime>9:00 AM</OpenTime>
+      <CloseTime>6:00 PM</CloseTime>
+      <Day>Thursday</Day>
+    </OfficeHour>
+    <OfficeHour>
+      <OpenTime>9:00 AM</OpenTime>
+      <CloseTime>6:00 PM</CloseTime>
+      <Day>Friday</Day>
+    </OfficeHour>
+    <OfficeHour>
+      <OpenTime>10:00 AM</OpenTime>
+      <CloseTime>5:00 PM</CloseTime>
+      <Day>Saturday</Day>
+    </OfficeHour>
+    <OfficeHour>
+      <OpenTime>1:00 PM</OpenTime>
+      <CloseTime>5:00 PM</CloseTime>
+      <Day>Sunday</Day>
+    </OfficeHour>
+    <LongDescription>Ellicott House is more than a place to live, it's a way of life.  The residents of Ellicott House enjoy uncompromised luxury in every aspect from the high end interior finishes in each apartment, to the  upgraded amenities which include a 24-hour concierge service, indoor/outdoor swimming pool, and 24-hour strength and cardio center. The studio, one and two bedroom apartments speak for themselves with 36-inch maple cabinetry with nickel pulls, stainless appliance package including built-in microwave, designer countertops and hardwood style floors.  The property is just a short drive to many of Washington DC's most acclaimed monuments or a quick Metro ride.  Residents can take advantage of assigned covered parking, a short walk to the Van Ness/UDC Metro Station or just steps away from the Metro Bus Line and trendy eateries.  Ellicott House combines luxury, high-end service and convenience in your new home.  Call or stop by today for a personal tour.</LongDescription>
+    <DrivingDirections></DrivingDirections>
+  </Information>
+  <Policy>
+    <Pet type="Cat" allowed="true">
+      <Comment></Comment>
+    </Pet>
+    <General>Maximum of 2 pets per apartment * Cats accepted * $300 Non-Refundable Pet Fee per pet * $35 Pet Rent per month per pet</General>
+  </Policy>
+  <Floorplan id="252047">
+    <Name>S</Name>
+    <Comment></Comment>
+    <Room type="bathroom">
+      <Count>1</Count>
+    </Room>
+    <Room type="bedroom">
+      <Count>0</Count>
+    </Room>
+    <SquareFeet min="470" max="470"/>
+    <MarketRent min="0" max="0"/>
+    <Deposit type="security deposit">
+      <Amount>100</Amount>
+    </Deposit>
+    <Amenities>
+      <General>http://milestonerents.com/Apts/module/ca/cp[id]/42608/pf[id]/252047/ils/63/pop/f/</General>
+    </Amenities>
+  </Floorplan>
+  <Floorplan id="252049">
+    <Name>S1</Name>
+    <Comment></Comment>
+    <Room type="bathroom">
+      <Count>1</Count>
+    </Room>
+    <Room type="bedroom">
+      <Count>0</Count>
+    </Room>
+    <SquareFeet min="500" max="500"/>
+    <MarketRent min="0" max="0"/>
+    <Deposit type="security deposit">
+      <Amount>100</Amount>
+    </Deposit>
+    <Amenities>
+      <General>http://milestonerents.com/Apts/module/ca/cp[id]/42608/pf[id]/252049/ils/63/pop/f/</General>
+    </Amenities>
+  </Floorplan>
+  <Floorplan id="252051">
+    <Name>S2</Name>
+    <Comment></Comment>
+    <Room type="bathroom">
+      <Count>1</Count>
+    </Room>
+    <Room type="bedroom">
+      <Count>0</Count>
+    </Room>
+    <SquareFeet min="650" max="650"/>
+    <MarketRent min="0" max="0"/>
+    <Deposit type="security deposit">
+      <Amount>100</Amount>
+    </Deposit>
+    <Amenities>
+      <General>http://milestonerents.com/Apts/module/ca/cp[id]/42608/pf[id]/252051/ils/63/pop/f/</General>
+    </Amenities>
+  </Floorplan>
+  <Floorplan id="252053">
+    <Name>S3</Name>
+    <Comment></Comment>
+    <Room type="bathroom">
+      <Count>1</Count>
+    </Room>
+    <Room type="bedroom">
+      <Count>0</Count>
+    </Room>
+    <SquareFeet min="675" max="675"/>
+    <MarketRent min="0" max="0"/>
+    <Deposit type="security deposit">
+      <Amount>100</Amount>
+    </Deposit>
+    <Amenities>
+      <General>http://milestonerents.com/Apts/module/ca/cp[id]/42608/pf[id]/252053/ils/63/pop/f/</General>
+    </Amenities>
+  </Floorplan>
+  <Floorplan id="252055">
+    <Name>A</Name>
+    <Comment></Comment>
+    <Room type="bathroom">
+      <Count>1</Count>
+    </Room>
+    <Room type="bedroom">
+      <Count>1</Count>
+    </Room>
+    <SquareFeet min="570" max="570"/>
+    <MarketRent min="1810.00" max="1810.00"/>
+    <Deposit type="security deposit">
+      <Amount>100</Amount>
+    </Deposit>
+    <Amenities>
+      <General>http://milestonerents.com/Apts/module/ca/cp[id]/42608/pf[id]/252055/ils/63/pop/f/</General>
+    </Amenities>
+  </Floorplan>
+  <Floorplan id="252057">
+    <Name>A1</Name>
+    <Comment></Comment>
+    <Room type="bathroom">
+      <Count>1</Count>
+    </Room>
+    <Room type="bedroom">
+      <Count>1</Count>
+    </Room>
+    <SquareFeet min="585" max="585"/>
+    <MarketRent min="0" max="0"/>
+    <Deposit type="security deposit">
+      <Amount>100</Amount>
+    </Deposit>
+    <Amenities>
+      <General>http://milestonerents.com/Apts/module/ca/cp[id]/42608/pf[id]/252057/ils/63/pop/f/</General>
+    </Amenities>
+  </Floorplan>
+  <Floorplan id="252059">
+    <Name>A2</Name>
+    <Comment></Comment>
+    <Room type="bathroom">
+      <Count>1</Count>
+    </Room>
+    <Room type="bedroom">
+      <Count>1</Count>
+    </Room>
+    <SquareFeet min="600" max="600"/>
+    <MarketRent min="2045.00" max="2045.00"/>
+    <Deposit type="security deposit">
+      <Amount>100</Amount>
+    </Deposit>
+    <Amenities>
+      <General>http://milestonerents.com/Apts/module/ca/cp[id]/42608/pf[id]/252059/ils/63/pop/f/</General>
+    </Amenities>
+  </Floorplan>
+  <Floorplan id="252061">
+    <Name>A3</Name>
+    <Comment></Comment>
+    <Room type="bathroom">
+      <Count>1</Count>
+    </Room>
+    <Room type="bedroom">
+      <Count>1</Count>
+    </Room>
+    <SquareFeet min="640" max="640"/>
+    <MarketRent min="1808.00" max="1808.00"/>
+    <Deposit type="security deposit">
+      <Amount>100</Amount>
+    </Deposit>
+    <Amenities>
+      <General>http://milestonerents.com/Apts/module/ca/cp[id]/42608/pf[id]/252061/ils/63/pop/f/</General>
+    </Amenities>
+  </Floorplan>
+  <Floorplan id="252063">
+    <Name>A4</Name>
+    <Comment></Comment>
+    <Room type="bathroom">
+      <Count>1</Count>
+    </Room>
+    <Room type="bedroom">
+      <Count>1</Count>
+    </Room>
+    <SquareFeet min="700" max="700"/>
+    <MarketRent min="1865.00" max="1865.00"/>
+    <Deposit type="security deposit">
+      <Amount>100</Amount>
+    </Deposit>
+    <Amenities>
+      <General>http://milestonerents.com/Apts/module/ca/cp[id]/42608/pf[id]/252063/ils/63/pop/f/</General>
+    </Amenities>
+  </Floorplan>
+  <Floorplan id="252065">
+    <Name>A5</Name>
+    <Comment></Comment>
+    <Room type="bathroom">
+      <Count>1</Count>
+    </Room>
+    <Room type="bedroom">
+      <Count>1</Count>
+    </Room>
+    <SquareFeet min="725" max="725"/>
+    <MarketRent min="0" max="0"/>
+    <Deposit type="security deposit">
+      <Amount>100</Amount>
+    </Deposit>
+    <Amenities>
+      <General>http://milestonerents.com/Apts/module/ca/cp[id]/42608/pf[id]/252065/ils/63/pop/f/</General>
+    </Amenities>
+  </Floorplan>
+  <Floorplan id="252067">
+    <Name>A6</Name>
+    <Comment></Comment>
+    <Room type="bathroom">
+      <Count>1</Count>
+    </Room>
+    <Room type="bedroom">
+      <Count>1</Count>
+    </Room>
+    <SquareFeet min="750" max="750"/>
+    <MarketRent min="1940.00" max="1940.00"/>
+    <Deposit type="security deposit">
+      <Amount>100</Amount>
+    </Deposit>
+    <Amenities>
+      <General>http://milestonerents.com/Apts/module/ca/cp[id]/42608/pf[id]/252067/ils/63/pop/f/</General>
+    </Amenities>
+  </Floorplan>
+  <Floorplan id="259719">
+    <Name>A7</Name>
+    <Comment></Comment>
+    <Room type="bathroom">
+      <Count>1</Count>
+    </Room>
+    <Room type="bedroom">
+      <Count>1</Count>
+    </Room>
+    <SquareFeet min="750" max="750"/>
+    <MarketRent min="0" max="0"/>
+    <Deposit type="security deposit">
+      <Amount>100</Amount>
+    </Deposit>
+    <Amenities>
+      <General>http://milestonerents.com/Apts/module/ca/cp[id]/42608/pf[id]/259719/ils/63/pop/f/</General>
+    </Amenities>
+  </Floorplan>
+  <Floorplan id="252069">
+    <Name>B1</Name>
+    <Comment></Comment>
+    <Room type="bathroom">
+      <Count>2</Count>
+    </Room>
+    <Room type="bedroom">
+      <Count>2</Count>
+    </Room>
+    <SquareFeet min="950" max="950"/>
+    <MarketRent min="0" max="0"/>
+    <Deposit type="security deposit">
+      <Amount>100</Amount>
+    </Deposit>
+    <Amenities>
+      <General>http://milestonerents.com/Apts/module/ca/cp[id]/42608/pf[id]/252069/ils/63/pop/f/</General>
+    </Amenities>
+  </Floorplan>
+  <Floorplan id="252071">
+    <Name>B2</Name>
+    <Comment></Comment>
+    <Room type="bathroom">
+      <Count>2</Count>
+    </Room>
+    <Room type="bedroom">
+      <Count>2</Count>
+    </Room>
+    <SquareFeet min="975" max="975"/>
+    <MarketRent min="2720.00" max="2720.00"/>
+    <Deposit type="security deposit">
+      <Amount>100</Amount>
+    </Deposit>
+    <Amenities>
+      <General>http://milestonerents.com/Apts/module/ca/cp[id]/42608/pf[id]/252071/ils/63/pop/f/</General>
+    </Amenities>
+  </Floorplan>
+  <Amenities>
+    <Community>
+      <Pool>true</Pool>
+      <FitnessCenter>true</FitnessCenter>
+      <TennisCourt>true</TennisCourt>
+      <Laundry>true</Laundry>
+      <Elevator>true</Elevator>
+      <BusinessCenter>true</BusinessCenter>
+      <GuestRoom>true</GuestRoom>
+      <Availability24Hours>false</Availability24Hours>
+      <BasketballCourt>false</BasketballCourt>
+      <ChildCare>false</ChildCare>
+      <ClubDiscount>false</ClubDiscount>
+      <ClubHouse>false</ClubHouse>
+      <Concierge>false</Concierge>
+      <CoverPark>false</CoverPark>
+      <DoorAttendant>false</DoorAttendant>
+      <FreeWeights>false</FreeWeights>
+      <Garage>false</Garage>
+      <Gate>false</Gate>
+      <GroupExcercise>false</GroupExcercise>
+      <HighSpeed>false</HighSpeed>
+      <Housekeeping>false</Housekeeping>
+      <HouseSitting>false</HouseSitting>
+      <Library>false</Library>
+      <MealService>false</MealService>
+      <NightPatrol>false</NightPatrol>
+      <OnSiteMaintenance>false</OnSiteMaintenance>
+      <OnSiteManagement>false</OnSiteManagement>
+      <Other>false</Other>
+      <PacakageReceiving>false</PacakageReceiving>
+      <PetCare>false</PetCare>
+      <PlayGround>false</PlayGround>
+      <Racquetball>false</Racquetball>
+      <RecRoom>false</RecRoom>
+      <Sauna>false</Sauna>
+      <ShortTermLease>false</ShortTermLease>
+      <Spa>false</Spa>
+      <StorageSpace>false</StorageSpace>
+      <Sundeck>false</Sundeck>
+      <Transportation>false</Transportation>
+      <TVLounge>false</TVLounge>
+      <Vintage>false</Vintage>
+      <VolleyballCourt>false</VolleyballCourt>
+    </Community>
+    <Floorplan>
+      <Handrails>1</Handrails>
+      <PrivatePatio>1</PrivatePatio>
+      <CableSat>1</CableSat>
+      <Disposal>1</Disposal>
+      <LargeClosets>1</LargeClosets>
+      <DishWasher>1</DishWasher>
+      <WindowCoverings>1</WindowCoverings>
+      <AdditionalStorage>0</AdditionalStorage>
+      <AirConditioner>0</AirConditioner>
+      <Alarm>0</Alarm>
+      <Balcony>0</Balcony>
+      <Carport>0</Carport>
+      <CeilingFan>0</CeilingFan>
+      <ControlledAccess>0</ControlledAccess>
+      <Courtyard>0</Courtyard>
+      <Fireplace>0</Fireplace>
+      <Furnished>0</Furnished>
+      <Garage>0</Garage>
+      <Heat>0</Heat>
+      <IndividualClimateControl>0</IndividualClimateControl>
+      <Microwave>0</Microwave>
+      <Other>0</Other>
+      <Patio>0</Patio>
+      <PrivateBalcony>0</PrivateBalcony>
+      <Range>0</Range>
+      <Refrigerator>0</Refrigerator>
+      <Skylight>0</Skylight>
+      <View>0</View>
+      <Washer>0</Washer>
+      <Dryer>0</Dryer>
+      <WD_Hookup>0</WD_Hookup>
+      <WheelChair>0</WheelChair>
+    </Floorplan>
+    <General>
+      <AmenityName>Minutes to Chevy Chase Pavilion</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>Alcove</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>Balcony / Patio</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>Online Resident Services and Bill Pay</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>Reserved Parking Garage</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>ATM Onsite</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>24-hour Building Concierge</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>Two miles to Interstate-495 and The National Zoo</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>Premium Pkg II</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>Stainless Appliance Package</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>Lobby with Cyber Cafe and Coffee Bar</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>Recycling Program</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>Pet Friendly</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>Premium Pkg III</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>Premium Pkg I</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>Trash Chute on Every Floor</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>Accent Wall Color Selection</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>Coat Closet</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>Hardwood Style Flooring</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>Brushed Nickel Accents</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>4-inch Wood Base Trim</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>Porcelain Tile Flooring</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>Curved Brushed Nickel Shower Bars</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+    </General>
+    <General>
+      <AmenityName>Berber Carpet in Bedrooms</AmenityName>
+      <AmenityCharge></AmenityCharge>
+      <AmenityRank></AmenityRank>
+      <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+    </General>
+  </Amenities>
+  <File id="252047" active="true">
+    <Type>floorplan</Type>
+    <Name>S</Name>
+    <Caption>S</Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/54c1567c4089d591.jpg</Src>
+    <Rank>1</Rank>
+    <id>1275220</id>
+    <width>640</width>
+    <height>480</height>
+  </File>
+  <File id="252049" active="true">
+    <Type>floorplan</Type>
+    <Name>S1</Name>
+    <Caption>S1</Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/54c156bed33f3834.jpg</Src>
+    <Rank>1</Rank>
+    <id>1275221</id>
+    <width>640</width>
+    <height>480</height>
+  </File>
+  <File id="252051" active="true">
+    <Type>floorplan</Type>
+    <Name>S2</Name>
+    <Caption>S2</Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/54c157187aa5b902.jpg</Src>
+    <Rank>1</Rank>
+    <id>1275222</id>
+    <width>640</width>
+    <height>480</height>
+  </File>
+  <File id="252053" active="true">
+    <Type>floorplan</Type>
+    <Name>S3</Name>
+    <Caption>S3</Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/54c15760c940f334.jpg</Src>
+    <Rank>1</Rank>
+    <id>1275224</id>
+    <width>640</width>
+    <height>480</height>
+  </File>
+  <File id="252055" active="true">
+    <Type>floorplan</Type>
+    <Name>A</Name>
+    <Caption>A</Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/54c157a7c1151787.jpg</Src>
+    <Rank>1</Rank>
+    <id>1275225</id>
+    <width>640</width>
+    <height>480</height>
+  </File>
+  <File id="252057" active="true">
+    <Type>floorplan</Type>
+    <Name>A1</Name>
+    <Caption>A1</Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/54c157e8a1b45823.jpg</Src>
+    <Rank>1</Rank>
+    <id>1275226</id>
+    <width>640</width>
+    <height>480</height>
+  </File>
+  <File id="252059" active="true">
+    <Type>floorplan</Type>
+    <Name>A2</Name>
+    <Caption>A2</Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/54c158bbf2f8f409.jpg</Src>
+    <Rank>1</Rank>
+    <id>1275227</id>
+    <width>640</width>
+    <height>480</height>
+  </File>
+  <File id="252061" active="true">
+    <Type>floorplan</Type>
+    <Name>A3</Name>
+    <Caption>A3</Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/54c159060639d382.jpg</Src>
+    <Rank>1</Rank>
+    <id>1275228</id>
+    <width>640</width>
+    <height>480</height>
+  </File>
+  <File id="252063" active="true">
+    <Type>floorplan</Type>
+    <Name>A4</Name>
+    <Caption>A4</Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/54c15973f2e89780.jpg</Src>
+    <Rank>1</Rank>
+    <id>1275229</id>
+    <width>640</width>
+    <height>480</height>
+  </File>
+  <File id="252065" active="true">
+    <Type>floorplan</Type>
+    <Name>A5</Name>
+    <Caption>A5</Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/54c159e285d1b288.jpg</Src>
+    <Rank>1</Rank>
+    <id>1275230</id>
+    <width>640</width>
+    <height>480</height>
+  </File>
+  <File id="252067" active="true">
+    <Type>floorplan</Type>
+    <Name>A6</Name>
+    <Caption>A6</Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/54c15a34dbbb2914.jpg</Src>
+    <Rank>1</Rank>
+    <id>1275231</id>
+    <width>640</width>
+    <height>480</height>
+  </File>
+  <File id="259719" active="true">
+    <Type>floorplan</Type>
+    <Name>A7</Name>
+    <Caption>A7</Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/54c15a6995340466.jpg</Src>
+    <Rank>1</Rank>
+    <id>1275234</id>
+    <width>640</width>
+    <height>480</height>
+  </File>
+  <File id="252069" active="true">
+    <Type>floorplan</Type>
+    <Name>B1</Name>
+    <Caption>B1</Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/54c15aa4cbca1156.jpg</Src>
+    <Rank>1</Rank>
+    <id>1275235</id>
+    <width>640</width>
+    <height>480</height>
+  </File>
+  <File id="252071" active="true">
+    <Type>floorplan</Type>
+    <Name>B2</Name>
+    <Caption>B2</Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/54c15b2cd2f23683.jpg</Src>
+    <Rank>1</Rank>
+    <id>1275237</id>
+    <width>640</width>
+    <height>480</height>
+  </File>
+  <File id="42608_1" active="true">
+    <Type>photo</Type>
+    <Name>Photo</Name>
+    <Caption>Photo</Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32c1d86b356.jpg</Src>
+    <Rank>1</Rank>
+    <id>1185839</id>
+    <width>1039</width>
+    <height>626</height>
+  </File>
+  <File id="42608_2" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32cbe661376.jpg</Src>
+    <Rank>2</Rank>
+    <id>1185844</id>
+    <width>1037</width>
+    <height>629</height>
+  </File>
+  <File id="42608_3" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32d4ba16365.jpg</Src>
+    <Rank>3</Rank>
+    <id>1185848</id>
+    <width>1041</width>
+    <height>631</height>
+  </File>
+  <File id="42608_4" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32d2d7f8477.jpg</Src>
+    <Rank>4</Rank>
+    <id>1185847</id>
+    <width>1040</width>
+    <height>629</height>
+  </File>
+  <File id="42608_5" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32ce2a3a950.jpg</Src>
+    <Rank>5</Rank>
+    <id>1185845</id>
+    <width>1046</width>
+    <height>631</height>
+  </File>
+  <File id="42608_6" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32d0ebde227.jpg</Src>
+    <Rank>6</Rank>
+    <id>1185846</id>
+    <width>1042</width>
+    <height>632</height>
+  </File>
+  <File id="42608_7" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32c5cf76962.jpg</Src>
+    <Rank>7</Rank>
+    <id>1185841</id>
+    <width>1215</width>
+    <height>628</height>
+  </File>
+  <File id="42608_8" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32dbd995824.jpg</Src>
+    <Rank>8</Rank>
+    <id>1185850</id>
+    <width>1213</width>
+    <height>628</height>
+  </File>
+  <File id="42608_9" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32c0287a668.jpg</Src>
+    <Rank>9</Rank>
+    <id>1185838</id>
+    <width>1041</width>
+    <height>632</height>
+  </File>
+  <File id="42608_10" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32b3f566999.jpg</Src>
+    <Rank>10</Rank>
+    <id>1185834</id>
+    <width>1218</width>
+    <height>629</height>
+  </File>
+  <File id="42608_11" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32dde438755.jpg</Src>
+    <Rank>11</Rank>
+    <id>1185851</id>
+    <width>1211</width>
+    <height>625</height>
+  </File>
+  <File id="42608_12" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/56f16a880b0db247.jpg</Src>
+    <Rank>12</Rank>
+    <id>3261828</id>
+    <width>640</width>
+    <height>480</height>
+  </File>
+  <File id="42608_13" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32a98828395.jpg</Src>
+    <Rank>13</Rank>
+    <id>1185829</id>
+    <width>1214</width>
+    <height>629</height>
+  </File>
+  <File id="42608_14" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32ab6c13207.jpg</Src>
+    <Rank>14</Rank>
+    <id>1185830</id>
+    <width>1211</width>
+    <height>626</height>
+  </File>
+  <File id="42608_15" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32b918c3436.jpg</Src>
+    <Rank>15</Rank>
+    <id>1185835</id>
+    <width>1214</width>
+    <height>628</height>
+  </File>
+  <File id="42608_16" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32bd9306706.jpg</Src>
+    <Rank>16</Rank>
+    <id>1185837</id>
+    <width>1215</width>
+    <height>628</height>
+  </File>
+  <File id="42608_17" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32c9ed52494.jpg</Src>
+    <Rank>17</Rank>
+    <id>1185843</id>
+    <width>1216</width>
+    <height>630</height>
+  </File>
+  <File id="42608_18" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32c7edba104.jpg</Src>
+    <Rank>18</Rank>
+    <id>1185842</id>
+    <width>1212</width>
+    <height>628</height>
+  </File>
+  <File id="42608_19" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32d9faf3285.jpg</Src>
+    <Rank>19</Rank>
+    <id>1185849</id>
+    <width>1219</width>
+    <height>628</height>
+  </File>
+  <File id="42608_20" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32b1ed37484.jpg</Src>
+    <Rank>20</Rank>
+    <id>1185833</id>
+    <width>1284</width>
+    <height>631</height>
+  </File>
+  <File id="42608_21" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32af3f59900.jpg</Src>
+    <Rank>21</Rank>
+    <id>1185832</id>
+    <width>1213</width>
+    <height>627</height>
+  </File>
+  <File id="42608_22" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32ad5d48820.jpg</Src>
+    <Rank>22</Rank>
+    <id>1185831</id>
+    <width>1212</width>
+    <height>629</height>
+  </File>
+  <File id="42608_23" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/52d9b32c3ce5c159.jpg</Src>
+    <Rank>23</Rank>
+    <id>1185840</id>
+    <width>1210</width>
+    <height>626</height>
+  </File>
+  <File id="42608_24" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/56fea77cf4113918.jpg</Src>
+    <Rank>24</Rank>
+    <id>3263410</id>
+    <width>640</width>
+    <height>480</height>
+  </File>
+  <File id="42608_25" active="true">
+    <Type>photo</Type>
+    <Name> </Name>
+    <Caption> </Caption>
+    <Src>http://medialibrary.entrata.com//media_library/2785/56fea77d0a521195.jpg</Src>
+    <Rank>25</Rank>
+    <id>3263411</id>
+    <width>640</width>
+    <height>480</height>
+  </File>
+</Property>
+</PhysicalProperty>

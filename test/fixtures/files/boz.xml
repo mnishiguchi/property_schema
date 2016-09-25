@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<PhysicalProperty>
+  <Property>
+    <PropertyID>
+      <Identification>
+        <PrimaryID>22</PrimaryID>
+        <MarketingName>Lakeside Apartments</MarketingName>
+        <WebSite>http://www.lakesidecentreville.com/</WebSite>
+        <BozzutoURL>http://bozzuto.com/apartments/communities/22-lakeside-apartments</BozzutoURL>
+        <Latitude>38.8321</Latitude>
+        <Longitude>-77.4412</Longitude>
+      </Identification>
+      <Address>
+        <Address1>6221 Summer Pond Drive</Address1>
+        <City>Centreville</City>
+        <State>VA</State>
+        <PostalCode>20121</PostalCode>
+        <CountyName>Fairfax</CountyName>
+        <Lead2LeaseEmail>lakesideboz@lead2lease.com</Lead2LeaseEmail>
+      </Address>
+      <Phone Type="office">
+        <PhoneNumber>888.471.6132</PhoneNumber>
+      </Phone>
+    </PropertyID>
+    <Information>
+      <OfficeHour>
+        <OpenTime>12:00 PM</OpenTime>
+        <CloseTime>5:00 PM</CloseTime>
+        <Day>Sunday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>6:00 PM</CloseTime>
+        <Day>Monday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>6:00 PM</CloseTime>
+        <Day>Tuesday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>6:00 PM</CloseTime>
+        <Day>Wednesday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>6:00 PM</CloseTime>
+        <Day>Thursday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>5:00 PM</CloseTime>
+        <Day>Friday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>10:00 AM</OpenTime>
+        <CloseTime>5:00 PM</CloseTime>
+        <Day>Saturday</Day>
+      </OfficeHour>
+      <OverviewText>&lt;p&gt;
+	Nestled around three beautiful lakes in Centre Ridge, Lakeside Apartments offers one- and two-bedroom luxury apartment homes. No matter which floor plan you choose, you'll find every amenity, every comfort and every chance to enjoy bright airy spaces expertly designed for maximum convenience.&lt;/p&gt;&lt;p&gt;
+	Lakeside is built on 45 landscaped acres of rolling meadows and lakes. Whether you desire to ride bikes around the lakes, work out, swim in one of the three pools, enjoy the sun on one of our decks or relax in your spacious apartment, you'll love Lakeside Apartments. We also offer a variety of time-saving services and thoughtful extras. We have a clubhouse available for private parties and meetings, a car wash, regular community events and much more.&lt;/p&gt;</OverviewText>
+      <OverviewTextStripped>Nestled around three beautiful lakes in Centre Ridge, Lakeside Apartments offers one- and two-bedroom luxury apartment homes. No matter which floor plan you choose, you'll find every amenity, every comfort and every chance to enjoy bright airy spaces expertly designed for maximum convenience. Lakeside is built on 45 landscaped acres of rolling meadows and lakes. Whether you desire to ride bikes around the lakes, work out, swim in one of the three pools, enjoy the sun on one of our decks or relax in your spacious apartment, you'll love Lakeside Apartments. We also offer a variety of time-saving services and thoughtful extras. We have a clubhouse available for private parties and meetings, a car wash, regular community events and much more.</OverviewTextStripped>
+      <OverviewBullet1>Relax on 45 acres of beautifully landscaped grounds with three scenic lakes scattered throughout</OverviewBullet1>
+      <OverviewBullet2>Resident garden and ENERGI outdoor fitness stations</OverviewBullet2>
+      <OverviewBullet3>Stainless steel appliances and maple cabinetry</OverviewBullet3>
+      <NeighborhoodText>&lt;p style="margin-bottom: 0in;"&gt;
+	&lt;span style="font-size: 22px;"&gt;Paint the Town&lt;/span&gt;&lt;/p&gt;&lt;p style="margin-bottom: 0in;"&gt;
+	Enjoy living in close proximity to restaurants, parks and art galleries at the Lakeside Apartments.&lt;/p&gt;&lt;ul&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Restaurants:&lt;/strong&gt; Sweetwater Tavern, Bonefish Grill, Alto Plaza, Copper Canyon, Preet Palace, Ciao Osteria, Outback Steakhouse, Carrabba's Italian Grill, Charlie Chiang's, Ledo Pizza, Bangkok City Restaurant, Chipotle
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Bars:&lt;/strong&gt; Red Rock Caf� &amp;Tequila Bar, Chasin' Tails, The Revolution Darts and Billiards, and Velocity Five Sports Restaurants &amp; Bar&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Spas:&lt;/strong&gt; Valon Salon &amp; Day Spa, Sully Nail Salon, Prestige Nail Salon, Elizabeth Arden Red Door
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Hotels:&lt;/strong&gt; Extended Stay America, Spring Hill Marriott Suites
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Theaters:&lt;/strong&gt; Centreville Multiplex Cinemas, Alliance Theatre
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Art Galleries:&lt;/strong&gt; Jung Fine Art Studio
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Parks:&lt;/strong&gt; Bull Run Regional Park, Cub Run Park, Arrowhead Park, Chalet Woods Park
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Trails:&lt;/strong&gt; Hemlock Overlook Regional Park
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;p style="margin-bottom: 0in;"&gt;
+	&lt;span style="font-size: 22px;"&gt;Getting Around&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Metro:&lt;/strong&gt; 13 miles south of Vienna Metro Station
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Bus:&lt;/strong&gt; Fairfax Connector, located at entrance to community, takes you directly to Vienna Metro stop
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Airport:&lt;/strong&gt; Dulles Airport
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Train Station: &lt;/strong&gt;Amtrak station
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Major Highways/Roads:&lt;/strong&gt; Located at intersection of Rts. 28 and 29, and 1 mile from I-66
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;p style="margin-bottom: 0in;"&gt;
+	&lt;span style="font-size: 22px;"&gt;Educate Yourself&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Elementary School:&lt;/strong&gt; Centre Ridge Elementary
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Middle School:&lt;/strong&gt; Liberty Middle School
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;High School:&lt;/strong&gt; Centreville High School
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Colleges/Universities:&lt;/strong&gt; George Mason University, Northern Virginia Community College
+	&lt;/li&gt;
+&lt;/ul&gt;</NeighborhoodText>
+      <DirectionsURL>http://maps.google.com/maps?daddr=6221%20Summer%20Pond%20Drive,%20Centreville,%20VA</DirectionsURL>
+      <ListingImageURL>http://bozzuto.com/system/apartment_communities/22/square.jpg</ListingImageURL>
+      <VideoURL/>
+      <FacebookURL>http://www.facebook.com/LakesideVA</FacebookURL>
+      <TwitterHandle>lakesideva</TwitterHandle>
+      <PinterestURL/>
+    </Information>
+    <Feature>
+      <Title>Lakeside Apartments</Title>
+      <Description>&lt;p&gt;Welcome to Lakeside Apartments &lt;br&gt;&lt;/p&gt;&lt;p&gt; &lt;br&gt;Miles from the stress. Away from the bustle. Close to perfection. &lt;br&gt; &lt;br&gt;Situated on 45 acres of beautifully landscaped grounds and bordered by peaceful lakes, life at Lakeside is an exceptional experience in the heart of Centreville. At Lakeside Apartments you&#8217;ll find the ideal home that is both spacious and contemporary, with features such as updated kitchens with stainless steel kitchen appliances, maple cabinetry, and beautiful flooring throughout. From a dip in a resort-inspired pool and a game of tennis, to socializing in a luxury clubhouse or reading a book by the lake; you&#8217;ll find life on the relaxing side of things. Located in the heart of Centreville in Fairfax County, there&#8217;s an array of shopping, dining, schools, and attractions nearby your home at Lakeside. You&#8217;ll be within easy access to Route 29 and I-66, just minutes from Dulles, and a short drive from downtown Washington D.C. &lt;br&gt; &lt;br&gt;Escape to your new sanctuary at Lakeside Apartments. &lt;/p&gt;</Description>
+    </Feature>
+    <Feature>
+      <Title>Features</Title>
+      <Description>&lt;ul&gt;	&lt;li&gt;		Upgraded kitchen with stainless steel appliances and maple cabinetry&lt;/li&gt;	&lt;li&gt;		Upgraded baths with maple cabinetry&lt;/li&gt;	&lt;li&gt;		Fireplaces available&lt;/li&gt;	&lt;li&gt;		Individual full-size washer/dryer in each residence&lt;/li&gt;	&lt;li&gt;		Frost-free freezer with ice maker&lt;/li&gt;	&lt;li&gt;		Vaulted ceilings available&lt;/li&gt;	&lt;li&gt;		Patios and balconies&lt;/li&gt;	&lt;li&gt;		Individual outside storage&lt;/li&gt;	&lt;li&gt;		Oversized closets&lt;/li&gt;	&lt;li&gt;		KemLam wood finished flooring available&lt;/li&gt;	&lt;li&gt;		Available high-speed Internet/digital cable&lt;/li&gt;	&lt;li&gt;		Verizon FiOS available&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;	Amenities&lt;/h2&gt;&lt;ul&gt;	&lt;li&gt;		Luxury clubhouses&lt;/li&gt;	&lt;li&gt;		Starbucks wireless caf�&lt;/li&gt;	&lt;li&gt;		Pet-friendly community&lt;/li&gt;	&lt;li&gt;		Dog park&lt;/li&gt;	&lt;li&gt;		Scenic lake views&lt;/li&gt;	&lt;li&gt;		Three pools&lt;/li&gt;	&lt;li&gt;		Tennis court, sports court and sand volleyball court&lt;/li&gt;	&lt;li&gt;		Playground area&lt;/li&gt;	&lt;li&gt;		Picnic and grilling area&lt;/li&gt;	&lt;li&gt;		24-hour fitness center&lt;/li&gt;	&lt;li&gt;		Car-wash area&lt;/li&gt;	&lt;li&gt;		Available carports&lt;/li&gt;	&lt;li&gt;		Guest suite available for resident guests&lt;/li&gt;	&lt;li&gt;		Resident garden&lt;/li&gt;	&lt;li&gt;		ENERGI outdoor fitness stations&lt;/li&gt;	&lt;li&gt;		Complimentary weekly fitness classes&lt;/li&gt;	&lt;li&gt;		Complimentary doorstep trash service&lt;/li&gt;
+&lt;/ul&gt;</Description>
+    </Feature>
+    <Feature>
+      <Title>Services</Title>
+      <Description>&lt;p&gt;From your first step across the threshold, you'll enjoy customer service that's second to none. Whether you need your plants watered, your pet cared for or an important package delivered to your door, consider it done. Bozzuto Management is committed to doing whatever it takes to meet your needs and exceed your expectations.&lt;/p&gt;    &lt;p&gt;At Lakeside, our award-winning services include:&lt;/p&gt;    &lt;ul&gt;&lt;li&gt;24-hour emergency maintenance&lt;/li&gt;&lt;li&gt;Starbucks wireless caf�&lt;/li&gt;&lt;li&gt;Package-acceptance service&lt;/li&gt;&lt;li&gt;Maid-service referral&lt;/li&gt;&lt;li&gt;"Away from Home" service&lt;/li&gt;&lt;/ul&gt;          &lt;p&gt;For a luxurious home in Centreville, Virginia that&#8217;s surrounded by natural splendor, consider living at Lakeside Apartments. This pet-friendly community includes a long list of top amenities. Guests here enjoy three pools, a Starbucks wireless caf�, scenic views and a luxury clubhouse too. It&#8217;s also right by the Vienna Metro Station and Fairfax Connector stops, making it an ideal home for commuters. Don&#8217;t wait. Reach out to Bozzuto to start the leasing process on a dream apartment today.&lt;/p&gt;</Description>
+    </Feature>
+    <FeaturedButton>
+      <Name>Pet Friendly</Name>
+    </FeaturedButton>
+    <FeaturedButton>
+      <Name>Fitness Center</Name>
+    </FeaturedButton>
+    <FeaturedButton>
+      <Name>Washer and Dryer</Name>
+    </FeaturedButton>
+    <PhotoSet/>
+    <Slideshow>
+      <SlideshowImageURL>http://bozzuto.com/system/property_slides/819/slide.jpg</SlideshowImageURL>
+      <SlideshowImageURL>http://bozzuto.com/system/property_slides/820/slide.jpg</SlideshowImageURL>
+      <SlideshowImageURL>http://bozzuto.com/system/property_slides/823/slide.jpg</SlideshowImageURL>
+      <SlideshowImageURL>http://bozzuto.com/system/property_slides/824/slide.jpg</SlideshowImageURL>
+      <SlideshowImageURL>http://bozzuto.com/system/property_slides/825/slide.jpg</SlideshowImageURL>
+    </Slideshow>
+    <Floorplan Id="9079">
+      <Name>1 Bedroom/1 Bath - 723 square feet</Name>
+      <FloorplanAvailabilityURL>http://lakesidecentreville.securecafe.com/onlineleasing/lakeside-apartments/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=90996&amp;floorPlans=802636</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>4</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/90996/90996-2-1-51864.jpg</ImageURL>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1.0</Bathrooms>
+      <SquareFeet Min="723" Max="723"/>
+      <MarketRent Min="1530" Max="1625"/>
+      <EffectiveRent Min="1530" Max="1625"/>
+    </Floorplan>
+    <Floorplan Id="9080">
+      <Name>1 Bedroom/1 Bath - 735 square feet</Name>
+      <FloorplanAvailabilityURL>http://lakesidecentreville.securecafe.com/onlineleasing/lakeside-apartments/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=90996&amp;floorPlans=802637</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>3</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/90996/90996-2-1-51865.jpg</ImageURL>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1.0</Bathrooms>
+      <SquareFeet Min="735" Max="735"/>
+      <MarketRent Min="1490" Max="1510"/>
+      <EffectiveRent Min="1490" Max="1510"/>
+    </Floorplan>
+    <Floorplan Id="9081">
+      <Name>2 Bedroom/1 Bath - 860 square feet</Name>
+      <FloorplanAvailabilityURL>http://lakesidecentreville.securecafe.com/onlineleasing/lakeside-apartments/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=90996&amp;floorPlans=802638</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/90996/90996-2-1-51866.jpg</ImageURL>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>1.0</Bathrooms>
+      <SquareFeet Min="860" Max="860"/>
+      <MarketRent Min="1640" Max="1640"/>
+      <EffectiveRent Min="1640" Max="1640"/>
+    </Floorplan>
+    <Floorplan Id="9082">
+      <Name>2 Bedroom/1 Bath - 925 square feet</Name>
+      <FloorplanAvailabilityURL>http://lakesidecentreville.securecafe.com/onlineleasing/lakeside-apartments/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=90996&amp;floorPlans=802639</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/90996/90996-2-1-51867.jpg</ImageURL>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>1.0</Bathrooms>
+      <SquareFeet Min="925" Max="925"/>
+      <MarketRent Min="0" Max="0"/>
+      <EffectiveRent Min="0" Max="0"/>
+    </Floorplan>
+    <Floorplan Id="9083">
+      <Name>2 Bedroom/2 Bath - 950 square feet</Name>
+      <FloorplanAvailabilityURL>http://lakesidecentreville.securecafe.com/onlineleasing/lakeside-apartments/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=90996&amp;floorPlans=802640</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>2</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/90996/90996-2-1-51868.jpg</ImageURL>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2.0</Bathrooms>
+      <SquareFeet Min="950" Max="950"/>
+      <MarketRent Min="1675" Max="1825"/>
+      <EffectiveRent Min="1675" Max="1825"/>
+    </Floorplan>
+    <Floorplan Id="9084">
+      <Name>2 Bedroom/2 Bath - 962 square feet</Name>
+      <FloorplanAvailabilityURL>http://lakesidecentreville.securecafe.com/onlineleasing/lakeside-apartments/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=90996&amp;floorPlans=802641</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>5</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/90996/90996-2-1-51869.jpg</ImageURL>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2.0</Bathrooms>
+      <SquareFeet Min="962" Max="962"/>
+      <MarketRent Min="1715" Max="1865"/>
+      <EffectiveRent Min="1715" Max="1865"/>
+    </Floorplan>
+    <Floorplan Id="9085">
+      <Name>2 Bedroom/2 Bath - 1018 square feet</Name>
+      <FloorplanAvailabilityURL>http://lakesidecentreville.securecafe.com/onlineleasing/lakeside-apartments/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=90996&amp;floorPlans=802642</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>8</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/90996/90996-2-1-51870.jpg</ImageURL>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2.0</Bathrooms>
+      <SquareFeet Min="1018" Max="1018"/>
+      <MarketRent Min="1755" Max="1870"/>
+      <EffectiveRent Min="1755" Max="1870"/>
+    </Floorplan>
+    <Promotion/>
+  </Property>
+  <Property>
+    <PropertyID>
+      <Identification>
+        <PrimaryID>57</PrimaryID>
+        <MarketingName>MetroPointe</MarketingName>
+        <WebSite>http://www.metropointeapts.com/</WebSite>
+        <BozzutoURL>http://bozzuto.com/apartments/communities/57-metropointe</BozzutoURL>
+        <Latitude>39.038502</Latitude>
+        <Longitude>-77.050598</Longitude>
+      </Identification>
+      <Address>
+        <Address1>11175 Georgia Avenue</Address1>
+        <City>Wheaton</City>
+        <State>MD</State>
+        <PostalCode>20902</PostalCode>
+        <CountyName>Montgomery</CountyName>
+        <Lead2LeaseEmail>bmcmetropointe@lead2lease.com</Lead2LeaseEmail>
+      </Address>
+      <Phone Type="office">
+        <PhoneNumber>866.644.0628</PhoneNumber>
+      </Phone>
+    </PropertyID>
+    <Information>
+      <OfficeHour>
+        <OpenTime>12:00 PM</OpenTime>
+        <CloseTime>5:00 PM</CloseTime>
+        <Day>Sunday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>6:00 PM</CloseTime>
+        <Day>Monday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>6:00 PM</CloseTime>
+        <Day>Tuesday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>6:00 PM</CloseTime>
+        <Day>Wednesday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>6:00 PM</CloseTime>
+        <Day>Thursday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>8:00 AM</OpenTime>
+        <CloseTime>5:00 PM</CloseTime>
+        <Day>Friday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>10:00 AM</OpenTime>
+        <CloseTime>5:00 PM</CloseTime>
+        <Day>Saturday</Day>
+      </OfficeHour>
+      <OverviewText>&lt;p&gt;
+	MetroPointe is more than an apartment community. It's a place where everyone blends in beautifully because everyone is unique. Where all are also united by a desire for urban convenience, contemporary design and modern living in one of the most vibrant communities in the D.C. metro area. Located right above the Wheaton Metro, but miles from the ordinary. Welcome to where you truly belong.&lt;/p&gt;</OverviewText>
+      <OverviewTextStripped>MetroPointe is more than an apartment community. It's a place where everyone blends in beautifully because everyone is unique. Where all are also united by a desire for urban convenience, contemporary design and modern living in one of the most vibrant communities in the D.C. metro area. Located right above the Wheaton Metro, but miles from the ordinary. Welcome to where you truly belong.</OverviewTextStripped>
+      <OverviewBullet1>Award-winning apartment community </OverviewBullet1>
+      <OverviewBullet2>An exceptional level of customer service</OverviewBullet2>
+      <OverviewBullet3>Directly above the Wheaton Metro (Red Line)</OverviewBullet3>
+      <NeighborhoodText>&lt;p style="margin-bottom: 0in;"&gt;
+	&lt;span style="font-size: 22px;"&gt;Paint the Town&lt;/span&gt;&lt;/p&gt;&lt;p style="margin-bottom: 0in;"&gt;
+	Wheaton is a dynamic neighborhood bustling with eclectic attractions. It's a community where your personal style and outlook are celebrated, as an increasing number of area residents are discovering every day. Conveniences are everywhere, from the Wheaton Metro (Red Line) downstairs to the many shopping malls, restaurants, markets and entertainment venues that are within minutes. MetroPointe is all about you. All the time. All the way.&lt;/p&gt;&lt;ul&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Restaurants:&lt;/strong&gt; Acapulco Mar-Y-Tierra, Baja Fresh, Christina's Italian Ristorante, Hollywood East Caf�, IHOP, Ledo's Pizza, Legends American Grill &amp; Billiards Tavern, Los Churros, Moby Dick's Seafood &amp; Sushi, Nick's Diner, Pollo Campero, Quiznos, Ruby Tuesday, PJ's Rice Bistro, Dunkin Donuts, Ferdinand's Restaurant, Saigonese Restaurant, Sergio's Place, Pollo Campero
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Bars/Nightlife:&lt;/strong&gt; Headliners Comedy Club, Legends, Hollywood Ballroom (Silver Spring)
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Stores:&lt;/strong&gt; Giant, Safeway (coming soon), Aeropostale, Aldo, American Eagle, Bath &amp; Body Works, Best Buy, The Children's Place, Forever 21, G by Guess, Hollister Co., JC Penney, Macy's, New York &amp; Co., Nine West, Office Depot, Old Navy, Radio Shack, Target, Victoria's Secret, Safeway
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;S&lt;/strong&gt;&lt;strong&gt;alons/Spas:&lt;/strong&gt; American Beauty Academy, Eterna Day Spa, Hair Cuttery, JC Penney Salon &amp; Day Spa, MasterCuts, Wheaton Nails &amp; Hair
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Gyms: &lt;/strong&gt;Bally Total Fitness, Fitness Twins Exercise Studio, Jazzercise Fitness Center
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Hotels:&lt;/strong&gt; Best Western Ambassador Inn, Hilton, Days Inn, Bethesda North Marriott Hotel &amp; Conference Center, Comfort Inn, Sheraton
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Banks:&lt;/strong&gt; Bank of America, BB&amp;T Bank, Chevy Chase, Wachovia Bank
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Theaters:&lt;/strong&gt; Montgomery Royal Theaters, Regal Majestic, AMC Loews White Flint
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Museums:&lt;/strong&gt; National Capital Trolley Museum, Sandy Spring Museum, George Meany Memorial Archives
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Sport Venues:&lt;/strong&gt; Northwest Park Golf Course, Wheaton Ice Rink
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Parks:&lt;/strong&gt; Brookside Gardens, Wheaton Regional Park, Wheaton Veterans Park, Newport Mill Park, Maryland-Nation Capital Park
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Trails:&lt;/strong&gt; Little Amherst, Marathon at the Mall, Triangle Challenge, Valley View Summit, Veirs Mill Stretch-It-Out
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;p style="margin-bottom: 0in;"&gt;
+	&lt;span style="font-size: 22px;"&gt;Getting Around&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Metro:&lt;/strong&gt; Directly above Wheaton Metro Station (Red Line)
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Bus:&lt;/strong&gt; Montgomery County Metrobus stops onsite, Greyhound station in Silver Spring
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Airports:&lt;/strong&gt; Reagan National, Dulles International
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Train Station:&lt;/strong&gt; Silver Spring MARC Station (5 mi.), Amtrak in Rockville (3 mi.)
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Major Highways/Roads:&lt;/strong&gt; I-495
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;p style="margin-bottom: 0in;"&gt;
+	&lt;span style="font-size: 22px;"&gt;Educate Yourself&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Elementary Schools:&lt;/strong&gt; Arcola Elementary School, Glenallan Elementary School, Kemp Mill Elementary School
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Middle Schools:&lt;/strong&gt; Sligo Middle School, Colonel E. Brooke Lee Middle School
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;High Schools:&lt;/strong&gt; Wheaton High School, Northwood High School, Albert Einstein High School, Blair High School
+	&lt;/li&gt;
+	&lt;li&gt;
+
+			&lt;strong&gt;Colleges/Universities:&lt;/strong&gt; University of Maryland, George Washington University, George Mason University, Howard University, Catholic University
+	&lt;/li&gt;
+&lt;/ul&gt;</NeighborhoodText>
+      <DirectionsURL>http://maps.google.com/maps?daddr=11175%20Georgia%20Avenue,%20Wheaton,%20MD</DirectionsURL>
+      <ListingImageURL>http://bozzuto.com/system/apartment_communities/57/square.jpg</ListingImageURL>
+      <VideoURL>https://www.youtube.com/watch?v=HSb3qf_bFjc</VideoURL>
+      <FacebookURL>http://www.facebook.com/metropointeapts</FacebookURL>
+      <TwitterHandle>MetroPointeApt</TwitterHandle>
+      <PinterestURL/>
+    </Information>
+    <Feature>
+      <Title>MetroPointe</Title>
+      <Description>&lt;p&gt;
+	&lt;span style="color:#808080;"&gt;&lt;span style="font-size:12px;"&gt;MetroPointe apartments for rent include modern amenities, urban convenience and contemporary design in beautiful Wheaton, Maryland. Renters are bound to love the property&#8217;s stellar location that&#8217;s literally right above the Wheaton Metro, making it ideal for commuters. Each spacious home includes GE black appliances, ceramic kitchen tile and wood cabinetry for a luxury feel. This pet-friendly property also features a clubroom, fitness center, business center and landscaped courtyard terraces. There's plenty more to love at the MetroPointe apartments in Maryland. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</Description>
+    </Feature>
+    <Feature>
+      <Title>Features</Title>
+      <Description>&lt;ul&gt;
+	&lt;li&gt;
+		Loft and single-story flats&lt;/li&gt;
+	&lt;li&gt;
+		Spacious floor plans with 9' ceilings&lt;/li&gt;
+	&lt;li&gt;
+		Shaker-style wood cabinetry&lt;/li&gt;
+	&lt;li&gt;
+		Contemporary satin nickel hardware throughout&lt;/li&gt;
+	&lt;li&gt;
+		Moen faucets throughout&lt;/li&gt;
+	&lt;li&gt;
+		GE black appliances&lt;/li&gt;
+	&lt;li&gt;
+		Daltile ceramic kitchen tile&lt;/li&gt;
+	&lt;li&gt;
+		Convenient package shelf outside resident entry&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;
+	Amenities&lt;/h2&gt;&lt;ul&gt;
+	&lt;li&gt;
+		Direct access to Wheaton Metro&lt;/li&gt;
+	&lt;li&gt;
+		Club room with pool table, plasma TV and catering kitchen&lt;/li&gt;
+	&lt;li&gt;
+		Large fitness center&lt;/li&gt;
+	&lt;li&gt;
+		Business center with conference area&lt;/li&gt;
+	&lt;li&gt;
+		Landscaped courtyard terraces&lt;/li&gt;
+	&lt;li&gt;
+		Garage parking with elevator access to residences&lt;/li&gt;
+	&lt;li&gt;
+		Walking park&lt;/li&gt;
+	&lt;li&gt;
+		Zipcar &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;
+	&lt;span style="color:#808080;"&gt;&lt;span style="font-size:12px;"&gt;&lt;span style="font-family: arial, sans, sans-serif; white-space: pre-wrap;"&gt;Looking for top amenities in a contemporary and luxurious apartment community? Then look no further than MetroPointe in Wheaton, Maryland. The pet-friendly property is right by the Wheaton Metro, making traveling to D.C., Virginia and Maryland a breeze. Top amenities here include a clubroom, fitness center and landscaped courtyard terraces. Contact Bozzuto today to discuss leasing at this incredible community. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</Description>
+    </Feature>
+    <FeaturedButton>
+      <Name>SmartRent</Name>
+    </FeaturedButton>
+    <FeaturedButton>
+      <Name>Pet Friendly</Name>
+    </FeaturedButton>
+    <FeaturedButton>
+      <Name>Move In Now</Name>
+    </FeaturedButton>
+    <FeaturedButton>
+      <Name>Rapid Transit</Name>
+    </FeaturedButton>
+    <FeaturedButton>
+      <Name>Zipcar</Name>
+    </FeaturedButton>
+    <FeaturedButton>
+      <Name>Fitness Center</Name>
+    </FeaturedButton>
+    <FeaturedButton>
+      <Name>Washer and Dryer</Name>
+    </FeaturedButton>
+    <FeaturedButton>
+      <Name>On-Site Retail</Name>
+    </FeaturedButton>
+    <PhotoSet/>
+    <Slideshow>
+      <SlideshowImageURL>http://bozzuto.com/system/property_slides/872/slide.jpg</SlideshowImageURL>
+      <SlideshowImageURL>http://bozzuto.com/system/property_slides/873/slide.jpg</SlideshowImageURL>
+      <SlideshowImageURL>http://bozzuto.com/system/property_slides/874/slide.jpg</SlideshowImageURL>
+      <SlideshowImageURL>http://bozzuto.com/system/property_slides/875/slide.jpg</SlideshowImageURL>
+      <SlideshowImageURL>http://bozzuto.com/system/property_slides/876/slide.jpg</SlideshowImageURL>
+      <SlideshowImageURL>http://bozzuto.com/system/property_slides/877/slide.jpg</SlideshowImageURL>
+    </Slideshow>
+    <Floorplan Id="15129">
+      <Name>Two Bedroom / Two Bath - 2C</Name>
+      <FloorplanAvailabilityURL>http://metropointeapts.securecafe.com/onlineleasing/metropointe/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=366777&amp;floorPlans=1664757</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/366777/366777-2-1-43968.jpg</ImageURL>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2.0</Bathrooms>
+      <SquareFeet Min="1061" Max="1061"/>
+      <MarketRent Min="0" Max="0"/>
+      <EffectiveRent Min="0" Max="0"/>
+    </Floorplan>
+    <Floorplan Id="15130">
+      <Name>Studio - 0A1</Name>
+      <FloorplanAvailabilityURL>http://metropointeapts.securecafe.com/onlineleasing/metropointe/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=366777&amp;floorPlans=1664748</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/366777/366777-2-1-43958.jpg</ImageURL>
+      <Bedrooms>0</Bedrooms>
+      <Bathrooms>1.0</Bathrooms>
+      <SquareFeet Min="586" Max="586"/>
+      <MarketRent Min="0" Max="0"/>
+      <EffectiveRent Min="0" Max="0"/>
+    </Floorplan>
+    <Floorplan Id="15131">
+      <Name>One Bedroom / One Bath and Den - 1F</Name>
+      <FloorplanAvailabilityURL>http://metropointeapts.securecafe.com/onlineleasing/metropointe/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=366777&amp;floorPlans=1664749</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/366777/366777-2-1-43960.jpg</ImageURL>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1.0</Bathrooms>
+      <SquareFeet Min="975" Max="975"/>
+      <MarketRent Min="1811" Max="2675"/>
+      <EffectiveRent Min="1811" Max="2675"/>
+    </Floorplan>
+    <Floorplan Id="15132">
+      <Name>One Bedroom / One Bath - 1A</Name>
+      <FloorplanAvailabilityURL>http://metropointeapts.securecafe.com/onlineleasing/metropointe/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=366777&amp;floorPlans=1664750</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/366777/366777-2-1-43961.jpg</ImageURL>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1.0</Bathrooms>
+      <SquareFeet Min="705" Max="705"/>
+      <MarketRent Min="1503" Max="2378"/>
+      <EffectiveRent Min="1503" Max="2378"/>
+    </Floorplan>
+    <Floorplan Id="15133">
+      <Name>One Bedroom / One Bath - 1C</Name>
+      <FloorplanAvailabilityURL>http://metropointeapts.securecafe.com/onlineleasing/metropointe/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=366777&amp;floorPlans=1664751</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>2</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/366777/366777-2-1-43962.jpg</ImageURL>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1.0</Bathrooms>
+      <SquareFeet Min="732" Max="732"/>
+      <MarketRent Min="1530" Max="2419"/>
+      <EffectiveRent Min="1530" Max="2419"/>
+    </Floorplan>
+    <Floorplan Id="15134">
+      <Name>One Bedroom / One Bath - 1D</Name>
+      <FloorplanAvailabilityURL>http://metropointeapts.securecafe.com/onlineleasing/metropointe/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=366777&amp;floorPlans=1664752</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/366777/366777-2-1-43963.jpg</ImageURL>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1.0</Bathrooms>
+      <SquareFeet Min="856" Max="856"/>
+      <MarketRent Min="0" Max="0"/>
+      <EffectiveRent Min="0" Max="0"/>
+    </Floorplan>
+    <Floorplan Id="15135">
+      <Name>One Bedroom / One Bath - 1E</Name>
+      <FloorplanAvailabilityURL>http://metropointeapts.securecafe.com/onlineleasing/metropointe/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=366777&amp;floorPlans=1664753</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/366777/366777-2-1-43964.jpg</ImageURL>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1.0</Bathrooms>
+      <SquareFeet Min="888" Max="888"/>
+      <MarketRent Min="0" Max="0"/>
+      <EffectiveRent Min="0" Max="0"/>
+    </Floorplan>
+    <Floorplan Id="15136">
+      <Name>Two Bedroom / Two Bath - 2D</Name>
+      <FloorplanAvailabilityURL>http://metropointeapts.securecafe.com/onlineleasing/metropointe/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=366777&amp;floorPlans=1664754</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/366777/366777-2-1-43965.jpg</ImageURL>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2.0</Bathrooms>
+      <SquareFeet Min="1022" Max="1022"/>
+      <MarketRent Min="0" Max="0"/>
+      <EffectiveRent Min="0" Max="0"/>
+    </Floorplan>
+    <Floorplan Id="15137">
+      <Name>Two Bedroom / Two Bath - 2E</Name>
+      <FloorplanAvailabilityURL>http://metropointeapts.securecafe.com/onlineleasing/metropointe/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=366777&amp;floorPlans=1664755</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/366777/366777-2-1-43966.jpg</ImageURL>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2.0</Bathrooms>
+      <SquareFeet Min="1093" Max="1093"/>
+      <MarketRent Min="2110" Max="2792"/>
+      <EffectiveRent Min="2110" Max="2792"/>
+    </Floorplan>
+    <Floorplan Id="15138">
+      <Name>Two Bedroom / Two Bath - 2G</Name>
+      <FloorplanAvailabilityURL>http://metropointeapts.securecafe.com/onlineleasing/metropointe/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=366777&amp;floorPlans=1664756</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/366777/366777-2-1-43967.jpg</ImageURL>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2.0</Bathrooms>
+      <SquareFeet Min="1090" Max="1090"/>
+      <MarketRent Min="0" Max="0"/>
+      <EffectiveRent Min="0" Max="0"/>
+    </Floorplan>
+    <Floorplan Id="15139">
+      <Name>Two Bedroom / Two Bath - 2F</Name>
+      <FloorplanAvailabilityURL>http://metropointeapts.securecafe.com/onlineleasing/metropointe/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=366777&amp;floorPlans=1664758</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/366777/366777-2-1-43969.jpg</ImageURL>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2.0</Bathrooms>
+      <SquareFeet Min="1118" Max="1118"/>
+      <MarketRent Min="2097" Max="2773"/>
+      <EffectiveRent Min="2097" Max="2773"/>
+    </Floorplan>
+    <Floorplan Id="15140">
+      <Name>One Bedroom / One Bath - 1B</Name>
+      <FloorplanAvailabilityURL>http://metropointeapts.securecafe.com/onlineleasing/metropointe/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=366777&amp;floorPlans=1664759</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/366777/366777-2-1-43970.jpg</ImageURL>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1.0</Bathrooms>
+      <SquareFeet Min="707" Max="707"/>
+      <MarketRent Min="1548" Max="2481"/>
+      <EffectiveRent Min="1548" Max="2481"/>
+    </Floorplan>
+    <Floorplan Id="15141">
+      <Name>Two Bedroom / Two Bath - 2A</Name>
+      <FloorplanAvailabilityURL>http://metropointeapts.securecafe.com/onlineleasing/metropointe/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=366777&amp;floorPlans=1664760</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/366777/366777-2-1-43971.jpg</ImageURL>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2.0</Bathrooms>
+      <SquareFeet Min="927" Max="927"/>
+      <MarketRent Min="0" Max="0"/>
+      <EffectiveRent Min="0" Max="0"/>
+    </Floorplan>
+    <Floorplan Id="15142">
+      <Name>Three Bedroom / Two Bath - 3A</Name>
+      <FloorplanAvailabilityURL>http://metropointeapts.securecafe.com/onlineleasing/metropointe/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=366777&amp;floorPlans=1664761</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/366777/366777-2-1-43972.jpg</ImageURL>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2.0</Bathrooms>
+      <SquareFeet Min="1411" Max="1411"/>
+      <MarketRent Min="0" Max="0"/>
+      <EffectiveRent Min="0" Max="0"/>
+    </Floorplan>
+    <Floorplan Id="15143">
+      <Name>One Bedroom / Two Bath Loft with Den - 1G</Name>
+      <FloorplanAvailabilityURL>http://metropointeapts.securecafe.com/onlineleasing/metropointe/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=366777&amp;floorPlans=1664762</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/366777/366777-2-1-43973.jpg</ImageURL>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>2.0</Bathrooms>
+      <SquareFeet Min="1121" Max="1121"/>
+      <MarketRent Min="0" Max="0"/>
+      <EffectiveRent Min="0" Max="0"/>
+    </Floorplan>
+    <Floorplan Id="15144">
+      <Name>Studio - 0A2</Name>
+      <FloorplanAvailabilityURL>http://metropointeapts.securecafe.com/onlineleasing/metropointe/oleapplication.aspx?stepname=Apartments&amp;myOlePropertyId=366777&amp;floorPlans=1664763</FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <ImageURL>https://cdn.rentcafe.com/dmslivecafe/3/366777/366777-2-1-55165.jpg</ImageURL>
+      <Bedrooms>0</Bedrooms>
+      <Bathrooms>1.0</Bathrooms>
+      <SquareFeet Min="560" Max="560"/>
+      <MarketRent Min="0" Max="0"/>
+      <EffectiveRent Min="0" Max="0"/>
+    </Floorplan>
+    <Promotion/>
+  </Property>
+</PhysicalProperty>

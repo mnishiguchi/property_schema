@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PhysicalProperty>
+  <Property>
+    <Identification>
+      <IDValue>010012</IDValue>
+    </Identification>
+    <PropertyID>
+      <Identification IDType="PrimaryID">
+        <IDValue>010012</IDValue>
+      </Identification>
+      <Identification IDType="SecondaryID">
+        <IDValue>1032558</IDValue>
+      </Identification>
+      <MarketingName>Park Estate</MarketingName>
+      <WebSite>http://parkestateapts.com</WebSite>
+      <Address AddressType="property">
+        <Address>960 Catbird Court </Address>
+        <City>Memphis</City>
+        <State>TN</State>
+        <PostalCode>38119</PostalCode>
+        <Email>ParkEstate.MAAC@lead2lease.com</Email>
+      </Address>
+      <Phone PhoneType="office">
+        <PhoneNumber>866-732-0276</PhoneNumber>
+      </Phone>
+    </PropertyID>
+    <ILS_Identification ILS_IdentificationType="Apartment" RentalType="Unspecified">
+      <Latitude>35.11</Latitude>
+      <Longitude>-89.88</Longitude>
+    </ILS_Identification>
+    <Information>
+      <StructureType>Unspecified</StructureType>
+      <UnitCount>81</UnitCount>
+      <OfficeHour>
+        <OpenTime>08:00</OpenTime>
+        <CloseTime>17:00</CloseTime>
+        <Day>Monday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>08:00</OpenTime>
+        <CloseTime>17:00</CloseTime>
+        <Day>Tuesday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>08:00</OpenTime>
+        <CloseTime>17:00</CloseTime>
+        <Day>Wednesday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>08:00</OpenTime>
+        <CloseTime>17:00</CloseTime>
+        <Day>Thursday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>08:00</OpenTime>
+        <CloseTime>17:00</CloseTime>
+        <Day>Friday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>10:00</OpenTime>
+        <CloseTime>17:00</CloseTime>
+        <Day>Saturday</Day>
+      </OfficeHour>
+      <ShortDescription>Located in the heart of East Memphis we offer unique 1, 2 and 3 bedroom apartments and townhomes nestled within a relaxed atmosphere amid beautifully landscaped grounds</ShortDescription>
+      <LongDescription>Park Estate, the most desirable address in East Memphis! Featuring spacious one, two and three bedroom apartments and townhomes that include custom flooring, brushed nickel hardware and fixtures, new appliances and custom cabinets and countertops. Located within minutes to I-240, you will enjoy having great access to all the excitement of downtown Memphis' entertainment, dining, and shopping.</LongDescription>
+      <Rents>
+        <SalePrice>0.00</SalePrice>
+        <StartRent>0.00</StartRent>
+        <StandardRent>0.00</StandardRent>
+        <CorporateRent Max="0.00" Min="0.00" />
+      </Rents>
+      <DrivingDirections>From I-240, take the Poplar Ave West exit.  Turn left onto Estate Dr.  Take the 2nd right onto Wrens Roost Circle and then turn right onto Catbird Ct.</DrivingDirections>
+      <PropertyAvailabilityURL>http://parkestate.maac.com</PropertyAvailabilityURL>
+    </Information>
+    <Floorplan>
+      <Identification IDType="FloorPlanID">
+        <IDValue>12102</IDValue>
+      </Identification>
+      <FloorplanType>Internal</FloorplanType>
+      <Name>Audubon</Name>
+      <UnitCount>14</UnitCount>
+      <FloorplanAvailabilityURL>http://parkestate.maac.com</FloorplanAvailabilityURL>
+      <UnitsAvailable>0</UnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1.00</Count>
+        <Comment>
+        </Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1.50</Count>
+        <Comment>
+        </Comment>
+      </Room>
+      <SquareFeet Avg="960" Min="960" Max="960" />
+      <MarketRent Avg="1527" Min="1043" Max="2068" />
+      <EffectiveRent Min="1043" Max="2068" />
+      <LeaseTerm Avg="8" Min="2" Max="14" />
+      <Deposit DepositType="Security Deposit">
+        <Amount AmountType="Actual">
+          <ValueRange Exact="$150.00" />
+        </Amount>
+      </Deposit>
+      <File FileID="{5D7F34E5-16CE-48A8-A031-4DBB225DE2F0}" Active="true">
+        <FileType>Floorplan</FileType>
+        <Description>Floorplan Large</Description>
+        <Name>Audubon-big.png</Name>
+        <Format>image/png</Format>
+        <Src>http://www.maac.com/~/media/Images/Properties/Tennessee/Memphis/Park-Estate/Floorplans/Audubon-big.ashx</Src>
+        <Width>690</Width>
+        <Height>550</Height>
+        <Rank>1</Rank>
+      </File>
+      <File FileID="{922F915F-39EE-41E8-9C78-7F17788C9666}" Active="true">
+        <FileType>Floorplan</FileType>
+        <Description>Floorplan Small</Description>
+        <Name>Audubon-sm.png</Name>
+        <Format>image/png</Format>
+        <Src>http://www.maac.com/~/media/Images/Properties/Tennessee/Memphis/Park-Estate/Floorplans/Audubon-sm.ashx</Src>
+        <Width>378</Width>
+        <Height>301</Height>
+        <Rank>2</Rank>
+      </File>
+      <Promotional />
+    </Floorplan>
+    <Floorplan>
+      <Identification IDType="FloorPlanID">
+        <IDValue>12201</IDValue>
+      </Identification>
+      <FloorplanType>Internal</FloorplanType>
+      <Name>Overton</Name>
+      <UnitCount>51</UnitCount>
+      <FloorplanAvailabilityURL>http://parkestate.maac.com</FloorplanAvailabilityURL>
+      <UnitsAvailable>5</UnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2.00</Count>
+        <Comment>
+        </Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2.00</Count>
+        <Comment>
+        </Comment>
+      </Room>
+      <SquareFeet Avg="1300" Min="1300" Max="1300" />
+      <MarketRent Avg="1686" Min="1273" Max="2603" />
+      <EffectiveRent Min="1273" Max="2603" />
+      <LeaseTerm Avg="8" Min="2" Max="14" />
+      <Deposit DepositType="Security Deposit">
+        <Amount AmountType="Actual">
+          <ValueRange Exact="$150.00" />
+        </Amount>
+      </Deposit>
+      <File FileID="{41D0F14C-9E5A-4649-B62C-4D1C52A20DDA}" Active="true">
+        <FileType>Floorplan</FileType>
+        <Description>Floorplan Large</Description>
+        <Name>Overton-big.png</Name>
+        <Format>image/png</Format>
+        <Src>http://www.maac.com/~/media/Images/Properties/Tennessee/Memphis/Park-Estate/Floorplans/Overton-big.ashx</Src>
+        <Width>690</Width>
+        <Height>581</Height>
+        <Rank>1</Rank>
+      </File>
+      <File FileID="{AB7EF222-F753-4105-9676-35B8C7588BC5}" Active="true">
+        <FileType>Floorplan</FileType>
+        <Description>Floorplan Small</Description>
+        <Name>Overton-sm.png</Name>
+        <Format>image/png</Format>
+        <Src>http://www.maac.com/~/media/Images/Properties/Tennessee/Memphis/Park-Estate/Floorplans/Overton-sm.ashx</Src>
+        <Width>378</Width>
+        <Height>318</Height>
+        <Rank>2</Rank>
+      </File>
+      <Promotional />
+    </Floorplan>
+    <Floorplan>
+      <Identification IDType="FloorPlanID">
+        <IDValue>12301</IDValue>
+      </Identification>
+      <FloorplanType>Internal</FloorplanType>
+      <Name>Marquette</Name>
+      <UnitCount>14</UnitCount>
+      <FloorplanAvailabilityURL>http://parkestate.maac.com</FloorplanAvailabilityURL>
+      <UnitsAvailable>1</UnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>3.00</Count>
+        <Comment>
+        </Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2.50</Count>
+        <Comment>
+        </Comment>
+      </Room>
+      <SquareFeet Avg="1750" Min="1750" Max="1750" />
+      <MarketRent Avg="2173" Min="1583" Max="3053" />
+      <EffectiveRent Min="1583" Max="3053" />
+      <LeaseTerm Avg="8" Min="2" Max="14" />
+      <Deposit DepositType="Security Deposit">
+        <Amount AmountType="Actual">
+          <ValueRange Exact="$150.00" />
+        </Amount>
+      </Deposit>
+      <File FileID="{CFF454F6-B2AA-4A8D-9298-FC54EBC070E4}" Active="true">
+        <FileType>Floorplan</FileType>
+        <Description>Floorplan Large</Description>
+        <Name>Marquette-big.png</Name>
+        <Format>image/png</Format>
+        <Src>http://www.maac.com/~/media/Images/Properties/Tennessee/Memphis/Park-Estate/Floorplans/Marquette-big.ashx</Src>
+        <Width>567</Width>
+        <Height>690</Height>
+        <Rank>1</Rank>
+      </File>
+      <File FileID="{CC2C1EFE-6F69-4E42-BCDC-B2C343FDFF38}" Active="true">
+        <FileType>Floorplan</FileType>
+        <Description>Floorplan Small</Description>
+        <Name>Marquette-sm.png</Name>
+        <Format>image/png</Format>
+        <Src>http://www.maac.com/~/media/Images/Properties/Tennessee/Memphis/Park-Estate/Floorplans/Marquette-sm.ashx</Src>
+        <Width>378</Width>
+        <Height>460</Height>
+        <Rank>2</Rank>
+      </File>
+      <Promotional />
+    </Floorplan>
+    <File FileID="44C1399B-3BAA-4453-A7D0-790359667C7B" Active="true">
+      <FileType>Photo</FileType>
+      <Name>1Park-Estate_clubhouse-interior.jpg</Name>
+      <Format>image/jpeg</Format>
+      <Src>http://www.maac.com/~/media/Images/Properties/Tennessee/Memphis/Park-Estate/Slides/1Park-Estate_clubhouse-interior.ashx</Src>
+      <Width>1200</Width>
+      <Height>525</Height>
+      <Rank>1</Rank>
+    </File>
+    <File FileID="0CF31737-701F-4114-9EEF-39A08A508759" Active="true">
+      <FileType>Photo</FileType>
+      <Name>2Park-Estate_clubhouse-interior-2.jpg</Name>
+      <Format>image/jpeg</Format>
+      <Src>http://www.maac.com/~/media/Images/Properties/Tennessee/Memphis/Park-Estate/Slides/2Park-Estate_clubhouse-interior-2.ashx</Src>
+      <Width>1200</Width>
+      <Height>525</Height>
+      <Rank>2</Rank>
+    </File>
+    <File FileID="4598E3E8-D9B7-423E-AAE4-B7568AB646A7" Active="true">
+      <FileType>Photo</FileType>
+      <Name>3parkestate-gazebo.jpg</Name>
+      <Format>image/jpeg</Format>
+      <Src>http://www.maac.com/~/media/Images/Properties/Tennessee/Memphis/Park-Estate/Slides/3parkestate-gazebo.ashx</Src>
+      <Width>1200</Width>
+      <Height>525</Height>
+      <Rank>3</Rank>
+    </File>
+    <File FileID="3092449E-BE90-4772-B90F-3655A8290C20" Active="true">
+      <FileType>Photo</FileType>
+      <Name>4Park-Estate_exterior.jpg</Name>
+      <Format>image/jpeg</Format>
+      <Src>http://www.maac.com/~/media/Images/Properties/Tennessee/Memphis/Park-Estate/Slides/4Park-Estate_exterior.ashx</Src>
+      <Width>1200</Width>
+      <Height>525</Height>
+      <Rank>4</Rank>
+    </File>
+    <File FileID="0C92D909-7070-4AC2-B93B-A20DBA2B0F2F" Active="true">
+      <FileType>Photo</FileType>
+      <Name>5Park-Estate_exterior-2.jpg</Name>
+      <Format>image/jpeg</Format>
+      <Src>http://www.maac.com/~/media/Images/Properties/Tennessee/Memphis/Park-Estate/Slides/5Park-Estate_exterior-2.ashx</Src>
+      <Width>1200</Width>
+      <Height>525</Height>
+      <Rank>5</Rank>
+    </File>
+    <File FileID="23355457-0409-4E8B-B001-55797C3474FF" Active="true">
+      <FileType>Photo</FileType>
+      <Name>6parkestate-living.jpg</Name>
+      <Format>image/jpeg</Format>
+      <Src>http://www.maac.com/~/media/Images/Properties/Tennessee/Memphis/Park-Estate/Slides/6parkestate-living.ashx</Src>
+      <Width>1200</Width>
+      <Height>525</Height>
+      <Rank>6</Rank>
+    </File>
+    <File FileID="6DC83CC2-8B8B-4521-B378-EF548FC57638" Active="true">
+      <FileType>Photo</FileType>
+      <Name>7Park-Estate_kitchen.jpg</Name>
+      <Format>image/jpeg</Format>
+      <Src>http://www.maac.com/~/media/Images/Properties/Tennessee/Memphis/Park-Estate/Slides/7Park-Estate_kitchen.ashx</Src>
+      <Width>1200</Width>
+      <Height>525</Height>
+      <Rank>7</Rank>
+    </File>
+    <File FileID="CDF96954-B9B3-4557-A4F8-C6E18957EC05" Active="true">
+      <FileType>Photo</FileType>
+      <Name>8Park-Estate_dining-room.jpg</Name>
+      <Format>image/jpeg</Format>
+      <Src>http://www.maac.com/~/media/Images/Properties/Tennessee/Memphis/Park-Estate/Slides/8Park-Estate_dining-room.ashx</Src>
+      <Width>1200</Width>
+      <Height>525</Height>
+      <Rank>8</Rank>
+    </File>
+    <Promotional>Unit WR946-2: Reduced price for limited time only.. Unit WR938-2: Reduced price for limited time only..</Promotional>
+  </Property>
+  <Property>
+    <Identification>
+      <IDValue>010016</IDValue>
+    </Identification>
+    <PropertyID>
+      <Identification IDType="PrimaryID">
+        <IDValue>010016</IDValue>
+      </Identification>
+      <Identification IDType="SecondaryID">
+        <IDValue>1000006759</IDValue>
+      </Identification>
+      <MarketingName>Reflection Pointe</MarketingName>
+      <WebSite>http://reflectionpointeapts.com</WebSite>
+      <Address AddressType="property">
+        <Address>2945 Layfair Drive </Address>
+        <City>Flowood</City>
+        <State>MS</State>
+        <PostalCode>39232</PostalCode>
+        <Email>ReflectionPointe.MAAC@lead2lease.com</Email>
+      </Address>
+      <Phone PhoneType="office">
+        <PhoneNumber>866-553-0475</PhoneNumber>
+      </Phone>
+    </PropertyID>
+    <ILS_Identification ILS_IdentificationType="Apartment" RentalType="Unspecified">
+      <Latitude>32.33</Latitude>
+      <Longitude>-90.11</Longitude>
+    </ILS_Identification>
+    <Information>
+      <StructureType>Unspecified</StructureType>
+      <UnitCount>295</UnitCount>
+      <OfficeHour>
+        <OpenTime>09:00</OpenTime>
+        <CloseTime>18:00</CloseTime>
+        <Day>Monday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>09:00</OpenTime>
+        <CloseTime>18:00</CloseTime>
+        <Day>Tuesday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>09:00</OpenTime>
+        <CloseTime>18:00</CloseTime>
+        <Day>Wednesday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>09:00</OpenTime>
+        <CloseTime>18:00</CloseTime>
+        <Day>Thursday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>09:00</OpenTime>
+        <CloseTime>18:00</CloseTime>
+        <Day>Friday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>10:00</OpenTime>
+        <CloseTime>17:00</CloseTime>
+        <Day>Saturday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>13:00</OpenTime>
+        <CloseTime>17:00</CloseTime>
+        <Day>Sunday</Day>
+      </OfficeHour>
+      <ShortDescription>Enjoy our spacious studio, 1, and 2 bedroom apartment homes in the Flowood, MS area. Take advantage of our luxury amenities and call Reflection Pointe your new home today!</ShortDescription>
+      <LongDescription>Enjoy living in one of our 1 or 2 bedroom apartment homes while having the convenience of being just minutes to Dogwood Festival's shops and dining.  We're also very convenient to River Oaks Hospital, University Medical Center, Woman's Hospital, VA, St Dominic's, UMC and MC Law School.  Relax and unwind while sitting by or fishing in our 8 acre lake. Reflection Pointe is Flowood's best kept secret!</LongDescription>
+      <Rents>
+        <SalePrice>0.00</SalePrice>
+        <StartRent>0.00</StartRent>
+        <StandardRent>0.00</StandardRent>
+        <CorporateRent Max="0.00" Min="0.00" />
+      </Rents>
+      <DrivingDirections>From I-55 take the Lakeland Drive exit heading East. Once you have entered Flowood (approximately 3 miles), you will take a right on Layfair Drive and the property is on the right.</DrivingDirections>
+      <PropertyAvailabilityURL>http://reflectionpointe.maac.com</PropertyAvailabilityURL>
+    </Information>
+    <Floorplan>
+      <Identification IDType="FloorPlanID">
+        <IDValue>16101</IDValue>
+      </Identification>
+      <FloorplanType>Internal</FloorplanType>
+      <Name>The Westchester</Name>
+      <UnitCount>8</UnitCount>
+      <FloorplanAvailabilityURL>http://reflectionpointe.maac.com</FloorplanAvailabilityURL>
+      <UnitsAvailable>2</UnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1.00</Count>
+        <Comment>
+        </Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1.00</Count>
+        <Comment>
+        </Comment>
+      </Room>
+      <SquareFeet Avg="790" Min="790" Max="790" />
+      <MarketRent Avg="1208" Min="953" Max="1798" />
+      <EffectiveRent Min="953" Max="1798" />
+      <LeaseTerm Avg="7" Min="2" Max="13" />
+      <Deposit DepositType="Security Deposit">
+        <Amount AmountType="Actual">
+          <ValueRange Exact="$250.00" />
+        </Amount>
+      </Deposit>
+      <File FileID="{0A7C8564-4D0C-4189-AFB7-346CA1F2B6CD}" Active="true">
+        <FileType>Floorplan</FileType>
+        <Description>Floorplan Large</Description>
+        <Name>Reflection_big_ReflectionPointe_Westchester.png</Name>
+        <Format>image/png</Format>
+        <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Floorplans/Reflection_big_ReflectionPointe_Westchester.ashx</Src>
+        <Width>690</Width>
+        <Height>424</Height>
+        <Rank>1</Rank>
+      </File>
+      <File FileID="{8F27961E-FE63-4E3E-A054-D46F0A326C49}" Active="true">
+        <FileType>Floorplan</FileType>
+        <Description>Floorplan Small</Description>
+        <Name>Reflection_small_ReflectionPointe_Westchester.png</Name>
+        <Format>image/png</Format>
+        <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Floorplans/Reflection_small_ReflectionPointe_Westchester.ashx</Src>
+        <Width>378</Width>
+        <Height>232</Height>
+        <Rank>2</Rank>
+      </File>
+      <Promotional />
+    </Floorplan>
+    <Floorplan>
+      <Identification IDType="FloorPlanID">
+        <IDValue>16102</IDValue>
+      </Identification>
+      <FloorplanType>Internal</FloorplanType>
+      <Name>The Bayside</Name>
+      <UnitCount>84</UnitCount>
+      <FloorplanAvailabilityURL>http://reflectionpointe.maac.com</FloorplanAvailabilityURL>
+      <UnitsAvailable>5</UnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1.00</Count>
+        <Comment>
+        </Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1.00</Count>
+        <Comment>
+        </Comment>
+      </Room>
+      <SquareFeet Avg="685" Min="685" Max="685" />
+      <MarketRent Avg="1089" Min="818" Max="1793" />
+      <EffectiveRent Min="818" Max="1793" />
+      <LeaseTerm Avg="7" Min="2" Max="13" />
+      <Deposit DepositType="Security Deposit">
+        <Amount AmountType="Actual">
+          <ValueRange Exact="$250.00" />
+        </Amount>
+      </Deposit>
+      <File FileID="{C2360325-B686-49BD-80A5-0BF3B46CA20A}" Active="true">
+        <FileType>Floorplan</FileType>
+        <Description>Floorplan Large</Description>
+        <Name>Bayside_big.png</Name>
+        <Format>image/png</Format>
+        <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Floorplans/Bayside_big.ashx</Src>
+        <Width>690</Width>
+        <Height>691</Height>
+        <Rank>1</Rank>
+      </File>
+      <File FileID="{8EF32EE5-EA9D-4260-9BE8-E8B51AE79B46}" Active="true">
+        <FileType>Floorplan</FileType>
+        <Description>Floorplan Small</Description>
+        <Name>Reflection_small_ReflectionPointe_Bayside.png</Name>
+        <Format>image/png</Format>
+        <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Floorplans/Reflection_small_ReflectionPointe_Bayside.ashx</Src>
+        <Width>378</Width>
+        <Height>421</Height>
+        <Rank>2</Rank>
+      </File>
+      <Promotional />
+    </Floorplan>
+    <Floorplan>
+      <Identification IDType="FloorPlanID">
+        <IDValue>16103</IDValue>
+      </Identification>
+      <FloorplanType>Internal</FloorplanType>
+      <Name>The Catalina</Name>
+      <UnitCount>32</UnitCount>
+      <FloorplanAvailabilityURL>http://reflectionpointe.maac.com</FloorplanAvailabilityURL>
+      <UnitsAvailable>2</UnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1.00</Count>
+        <Comment>
+        </Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1.00</Count>
+        <Comment>
+        </Comment>
+      </Room>
+      <SquareFeet Avg="520" Min="520" Max="520" />
+      <MarketRent Avg="1006" Min="733" Max="1708" />
+      <EffectiveRent Min="733" Max="1708" />
+      <LeaseTerm Avg="7" Min="2" Max="13" />
+      <Deposit DepositType="Security Deposit">
+        <Amount AmountType="Actual">
+          <ValueRange Exact="$250.00" />
+        </Amount>
+      </Deposit>
+      <File FileID="{F29DAB37-30C3-4CAC-812B-72A07616E391}" Active="true">
+        <FileType>Floorplan</FileType>
+        <Description>Floorplan Large</Description>
+        <Name>Catalina_big.png</Name>
+        <Format>image/png</Format>
+        <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Floorplans/Catalina_big.ashx</Src>
+        <Width>690</Width>
+        <Height>691</Height>
+        <Rank>1</Rank>
+      </File>
+      <File FileID="{9FD8074E-68F4-4ADF-A083-7C63059B8A46}" Active="true">
+        <FileType>Floorplan</FileType>
+        <Description>Floorplan Small</Description>
+        <Name>Reflection_small_ReflectionPointe_Catalina.png</Name>
+        <Format>image/png</Format>
+        <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Floorplans/Reflection_small_ReflectionPointe_Catalina.ashx</Src>
+        <Width>378</Width>
+        <Height>420</Height>
+        <Rank>2</Rank>
+      </File>
+      <Promotional />
+    </Floorplan>
+    <Floorplan>
+      <Identification IDType="FloorPlanID">
+        <IDValue>16201</IDValue>
+      </Identification>
+      <FloorplanType>Internal</FloorplanType>
+      <Name>The Huntington</Name>
+      <UnitCount>52</UnitCount>
+      <FloorplanAvailabilityURL>http://reflectionpointe.maac.com</FloorplanAvailabilityURL>
+      <UnitsAvailable>4</UnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2.00</Count>
+        <Comment>
+        </Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1.00</Count>
+        <Comment>
+        </Comment>
+      </Room>
+      <SquareFeet Avg="790" Min="790" Max="790" />
+      <MarketRent Avg="1272" Min="908" Max="1938" />
+      <EffectiveRent Min="908" Max="1938" />
+      <LeaseTerm Avg="7" Min="2" Max="13" />
+      <Deposit DepositType="Security Deposit">
+        <Amount AmountType="Actual">
+          <ValueRange Exact="$250.00" />
+        </Amount>
+      </Deposit>
+      <File FileID="{1408E3C6-F23F-4B6A-88A9-B3E57A602FE1}" Active="true">
+        <FileType>Floorplan</FileType>
+        <Description>Floorplan Large</Description>
+        <Name>Huntington_big.png</Name>
+        <Format>image/png</Format>
+        <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Floorplans/Huntington_big.ashx</Src>
+        <Width>690</Width>
+        <Height>691</Height>
+        <Rank>1</Rank>
+      </File>
+      <File FileID="{2F52FDE8-1C4D-4E47-B6F2-6D4FB36743BB}" Active="true">
+        <FileType>Floorplan</FileType>
+        <Description>Floorplan Small</Description>
+        <Name>Reflection_small_ReflectionPointe_Huntington.png</Name>
+        <Format>image/png</Format>
+        <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Floorplans/Reflection_small_ReflectionPointe_Huntington.ashx</Src>
+        <Width>378</Width>
+        <Height>396</Height>
+        <Rank>2</Rank>
+      </File>
+      <Promotional />
+    </Floorplan>
+    <Floorplan>
+      <Identification IDType="FloorPlanID">
+        <IDValue>16202</IDValue>
+      </Identification>
+      <FloorplanType>Internal</FloorplanType>
+      <Name>The Delta</Name>
+      <UnitCount>103</UnitCount>
+      <FloorplanAvailabilityURL>http://reflectionpointe.maac.com</FloorplanAvailabilityURL>
+      <UnitsAvailable>11</UnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2.00</Count>
+        <Comment>
+        </Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2.00</Count>
+        <Comment>
+        </Comment>
+      </Room>
+      <SquareFeet Avg="1062" Min="1061" Max="1161" />
+      <MarketRent Avg="1270" Min="938" Max="2068" />
+      <EffectiveRent Min="938" Max="2068" />
+      <LeaseTerm Avg="7" Min="2" Max="13" />
+      <Deposit DepositType="Security Deposit">
+        <Amount AmountType="Actual">
+          <ValueRange Exact="$250.00" />
+        </Amount>
+      </Deposit>
+      <File FileID="{DA0AB789-60E4-46F6-B7EE-E1E61FCD238D}" Active="true">
+        <FileType>Floorplan</FileType>
+        <Description>Floorplan Large</Description>
+        <Name>Reflection_big_ReflectionPointe_Delta.png</Name>
+        <Format>image/png</Format>
+        <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Floorplans/Reflection_big_ReflectionPointe_Delta.ashx</Src>
+        <Width>690</Width>
+        <Height>475</Height>
+        <Rank>1</Rank>
+      </File>
+      <File FileID="{DE359A2C-FB27-4453-B24A-6494009808FC}" Active="true">
+        <FileType>Floorplan</FileType>
+        <Description>Floorplan Small</Description>
+        <Name>Reflection_small_ReflectionPointe_Delta.png</Name>
+        <Format>image/png</Format>
+        <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Floorplans/Reflection_small_ReflectionPointe_Delta.ashx</Src>
+        <Width>378</Width>
+        <Height>260</Height>
+        <Rank>2</Rank>
+      </File>
+      <Promotional />
+    </Floorplan>
+    <Floorplan>
+      <Identification IDType="FloorPlanID">
+        <IDValue>16203</IDValue>
+      </Identification>
+      <FloorplanType>Internal</FloorplanType>
+      <Name>The Riviera</Name>
+      <UnitCount>16</UnitCount>
+      <FloorplanAvailabilityURL>http://reflectionpointe.maac.com</FloorplanAvailabilityURL>
+      <UnitsAvailable>1</UnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2.00</Count>
+        <Comment>
+        </Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2.00</Count>
+        <Comment>
+        </Comment>
+      </Room>
+      <SquareFeet Avg="1017" Min="1017" Max="1017" />
+      <MarketRent Avg="1406" Min="1053" Max="2138" />
+      <EffectiveRent Min="1053" Max="2138" />
+      <LeaseTerm Avg="7" Min="2" Max="13" />
+      <Deposit DepositType="Security Deposit">
+        <Amount AmountType="Actual">
+          <ValueRange Exact="$250.00" />
+        </Amount>
+      </Deposit>
+      <File FileID="{78A0A4D3-C3DE-4C9B-ACA6-705E58403397}" Active="true">
+        <FileType>Floorplan</FileType>
+        <Description>Floorplan Large</Description>
+        <Name>Reflection_Riviera_large.png</Name>
+        <Format>image/png</Format>
+        <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Floorplans/Reflection_Riviera_large.ashx</Src>
+        <Width>690</Width>
+        <Height>427</Height>
+        <Rank>1</Rank>
+      </File>
+      <File FileID="{C821AE5B-D016-46E2-8225-3B90F79CFCA0}" Active="true">
+        <FileType>Floorplan</FileType>
+        <Description>Floorplan Small</Description>
+        <Name>Reflection_Riviera_small.png</Name>
+        <Format>image/png</Format>
+        <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Floorplans/Reflection_Riviera_small.ashx</Src>
+        <Width>378</Width>
+        <Height>234</Height>
+        <Rank>2</Rank>
+      </File>
+      <Promotional />
+    </Floorplan>
+    <File FileID="3E546BFD-3278-4F29-BBAB-E15393EE024F" Active="true">
+      <FileType>Photo</FileType>
+      <Name>reflectionpointjacksonext2205ZF4236567941003.jpg</Name>
+      <Format>image/jpeg</Format>
+      <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Slides/reflectionpointjacksonext2205ZF4236567941003.ashx</Src>
+      <Width>1200</Width>
+      <Height>525</Height>
+      <Rank>1</Rank>
+    </File>
+    <File FileID="BAF9D8B8-BFD0-4E94-B40C-02F3E85BBC39" Active="true">
+      <FileType>Photo</FileType>
+      <Name>reflectionpointjacksonext2256ZF4236567941005.jpg</Name>
+      <Format>image/jpeg</Format>
+      <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Slides/reflectionpointjacksonext2256ZF4236567941005.ashx</Src>
+      <Width>1200</Width>
+      <Height>525</Height>
+      <Rank>2</Rank>
+    </File>
+    <File FileID="19CC8A0E-758D-41E9-A2BE-595810D62C6A" Active="true">
+      <FileType>Photo</FileType>
+      <Name>reflectionpointjacksonext2430ZF4236567941007.jpg</Name>
+      <Format>image/jpeg</Format>
+      <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Slides/reflectionpointjacksonext2430ZF4236567941007.ashx</Src>
+      <Width>1200</Width>
+      <Height>525</Height>
+      <Rank>3</Rank>
+    </File>
+    <File FileID="C18148E5-D166-4CEB-87DE-41939213AAA1" Active="true">
+      <FileType>Photo</FileType>
+      <Name>reflectionpointjacksonint2474ZF4236567941009.jpg</Name>
+      <Format>image/jpeg</Format>
+      <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Slides/reflectionpointjacksonint2474ZF4236567941009.ashx</Src>
+      <Width>1200</Width>
+      <Height>525</Height>
+      <Rank>4</Rank>
+    </File>
+    <File FileID="DFFD946A-E62E-4094-B931-0F9AEB4706E3" Active="true">
+      <FileType>Photo</FileType>
+      <Name>reflectionpointjacksonint2514ZF4236567941010.jpg</Name>
+      <Format>image/jpeg</Format>
+      <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Slides/reflectionpointjacksonint2514ZF4236567941010.ashx</Src>
+      <Width>1200</Width>
+      <Height>525</Height>
+      <Rank>5</Rank>
+    </File>
+    <File FileID="0839ED07-DF39-487C-BF4F-E6B647096C3D" Active="true">
+      <FileType>Photo</FileType>
+      <Name>reflectionpointjacksonint2554ZF4236567941011.jpg</Name>
+      <Format>image/jpeg</Format>
+      <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Slides/reflectionpointjacksonint2554ZF4236567941011.ashx</Src>
+      <Width>1200</Width>
+      <Height>525</Height>
+      <Rank>6</Rank>
+    </File>
+    <File FileID="41CF093F-7853-47AB-B293-2A097EC0B317" Active="true">
+      <FileType>Photo</FileType>
+      <Name>reflectionpointjacksonint2634ZF4236567941014.jpg</Name>
+      <Format>image/jpeg</Format>
+      <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Slides/reflectionpointjacksonint2634ZF4236567941014.ashx</Src>
+      <Width>1200</Width>
+      <Height>525</Height>
+      <Rank>7</Rank>
+    </File>
+    <File FileID="0C7912CB-712C-4CC6-80EF-B412A60A1C99" Active="true">
+      <FileType>Photo</FileType>
+      <Name>reflectionpointjacksonint2609ZF4236567941013.jpg</Name>
+      <Format>image/jpeg</Format>
+      <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Slides/reflectionpointjacksonint2609ZF4236567941013.ashx</Src>
+      <Width>1200</Width>
+      <Height>525</Height>
+      <Rank>8</Rank>
+    </File>
+    <File FileID="9E41351D-7615-4616-A61E-35BDB9170F37" Active="true">
+      <FileType>Photo</FileType>
+      <Name>reflectionpointjacksonint2664ZF4236567941015.jpg</Name>
+      <Format>image/jpeg</Format>
+      <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Slides/reflectionpointjacksonint2664ZF4236567941015.ashx</Src>
+      <Width>1200</Width>
+      <Height>525</Height>
+      <Rank>9</Rank>
+    </File>
+    <File FileID="A60763E8-905E-4394-A108-E966AC51C990" Active="true">
+      <FileType>Photo</FileType>
+      <Name>reflectionpointjacksonint2594ZF4236567941012.jpg</Name>
+      <Format>image/jpeg</Format>
+      <Src>http://www.maac.com/~/media/Images/Properties/Mississippi/Jackson/Reflection-Pointe/Slides/reflectionpointjacksonint2594ZF4236567941012.ashx</Src>
+      <Width>1200</Width>
+      <Height>525</Height>
+      <Rank>10</Rank>
+    </File>
+    <Promotional>Unit 161626: Reduced price for limited time only.. Unit 010112: Reduced price for limited time only.. Unit 151525: Reduced price for limited time only.. Unit 101025: Reduced price for limited time only.. Unit 171718: Reduced price for limited time only.. Unit 040411: Reduced price for limited time only..</Promotional>
+  </Property>
+</PhysicalProperty>

@@ -1,0 +1,3235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PhysicalProperty SchemaLocation="http://snaptshot.ellipseinc.net/asp/MITS_Property_v1.5.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Property managementId="234">
+    <Identification type="apartment" rentaltype="standard">
+      <PrimaryID>20550</PrimaryID>
+      <MarketingName>Bell Del Ray</MarketingName>
+      <OwnerLegalName />
+      <Address>
+        <Address1>625 East Monroe Ave</Address1>
+        <City>Alexandria</City>
+        <State>VA</State>
+        <Zip>22301</Zip>
+        <Country>United States</Country>
+        <PO_Box />
+        <MailingAddress />
+        <ShippingAddress />
+      </Address>
+      <Latitude>38.820485</Latitude>
+      <Longitude>-77.0505419</Longitude>
+      <Fax>
+        <Number>(703) 519-1976</Number>
+      </Fax>
+      <Website>www.bellapartmentliving.com/va/alexandria/bell-del-ray/</Website>
+    </Identification>
+    <Information>
+      <StructureType>Standard</StructureType>
+      <UnitCount />
+      <OfficeHour>
+        <OpenTime>12:00 PM</OpenTime>
+        <CloseTime>5:00 PM</CloseTime>
+        <Day>Su</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>6:00 PM</CloseTime>
+        <Day>M</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>7:00 PM</CloseTime>
+        <Day>T</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>6:00 PM</CloseTime>
+        <Day>W</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>7:00 PM</CloseTime>
+        <Day>Th</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>6:00 PM</CloseTime>
+        <Day>F</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>10:00 AM</OpenTime>
+        <CloseTime>5:00 PM</CloseTime>
+        <Day>SA</Day>
+      </OfficeHour>
+      <LongDescription>Bell Del Ray is a brand new apartment community located in the Del Ray neighborhood of Alexandria, Virginia, that's convenient to Potomac Yard, Old Town, and downtown DC. We're a quick walk to the Braddock Road metro stop. Alexandria's Del Ray neighborhood is a truly unique, vibrant place to call home. Known for its independent retail shops, holistic health stores, street festivals and chef-driven restaurant scene, Del Ray has a character all on its own. And with   The Birchmere   legendary music venue just around the corner, you'll never have a dull moment, nor a dull meal, living at Bell Del Ray! 
+
+ Take an afternoon walk down Mount Vernon Avenue and you'll be introduced to fine wine bars, cheese boutiques, custard shops, cafes and Pizzerias. You'll find locally owned small businesses, hardware stores, yoga studios and shopping options.There's a healthy art community in the area as well, as evidenced by the many eclectic shops and regular events such as Art on the Avenue. And, on the 3 rd  Thursday of each month a new Frist Thursday festival event takes place, drawing locals and out-of-towners to enjoy the many restaurants and local talent offered by the community. 
+
+ Within close proximity to the George Washington Parkway and the Beltway, an Alexandria apartment places you within driving distance of government facilities and employers in Washington DC and Northern Virginia. You'll find that Maryland is just across the Potomac River and just a stone's throw away too. The easy commute is one of the things that neighborhood residents rave about. If you're from the Washington metro area, then you know how congested the area can become. Call Bell Del Ray home and you'll be only 10 minutes from Washington DC. Now  that's  convenience. Public transportation is a cut above the systems in other major US cities. The Washington DC Metro system extends out into Alexandria and specifically the Del Ray neighborhood, making it an easy commute to so many area employers. If you're in search of a pet friendly apartment near the Braddock Metro, consider your search complete. 
+
+ Bell Del Ray offers luxury one and two bedroom apartment homes, each with a washer and dryer, spacious walk-in closets, stainless-steel appliances, and more. Residents enjoy our swimming pool, 24hr fitness center, private parking deck, spacious courtyard with lounge areas and so much more. Call to schedule a visit or stop by for a tour today!</LongDescription>
+      <LeaseLength />
+      <DrivingDirections>Metro: 
+
+ Braddock Road Station   (Blue  Yellow Lines)  : .9 Miles - 20 Minute Estimated Walk Time 
+
+Walking Directions: Head South on N. West St towards Wythe St. Turn right onto E Braddock Rd then turn right on E Glendale Ave. Walk approximately .4 miles and turn right onto Leslie Ave. After .2 Miles turn right on E Monroe Ave. Destination is on the right.</DrivingDirections>
+    </Information>
+    <Promotional>Don't Miss Out!!!  
+
+  Limit Time Offer! 
+
+  ONE BEDROOM STARTING AT $1699 
+
+    ALL MOVE IN FEES WAIVED   
+
+    DON'T MISS OUT!!</Promotional>
+    <OnSiteContact type="Property manager">
+      <FirstName />
+      <LastName />
+      <Title />
+      <Email>BellDelRay@newhome1.com</Email>
+      <Phone>
+        <Number>(877) 375-5204</Number>
+        <Description>Phone</Description>
+      </Phone>
+    </OnSiteContact>
+    <Policy>
+      <Pet type="Dog" allowed="True">
+        <Comment />
+        <MaxCount>2</MaxCount>
+        <Deposit>0</Deposit>
+        <Fee>500</Fee>
+        <Rent>50</Rent>
+        <Weight>75</Weight>
+        <FeeRange />
+        <Restrictions />
+        <PetCare>False</PetCare>
+      </Pet>
+      <Pet type="Cat" allowed="True">
+        <Comment />
+        <MaxCount>2</MaxCount>
+        <Deposit>0</Deposit>
+        <Fee>500</Fee>
+        <Rent>50</Rent>
+        <Weight>0</Weight>
+        <FeeRange />
+        <Restrictions />
+        <PetCare>False</PetCare>
+      </Pet>
+    </Policy>
+    <Floorplan id="50804">
+      <Name>S1</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="517" max="517" />
+      <MarketRent min="1727" max="1727" />
+      <EffectiveRent min="1727" max="1727" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50804</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50805">
+      <Name>A1G2</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="699" max="699" />
+      <MarketRent min="1813" max="1813" />
+      <EffectiveRent min="1813" max="1813" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50805</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50806">
+      <Name>A1R</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="887" max="887" />
+      <MarketRent min="2103" max="2103" />
+      <EffectiveRent min="2103" max="2103" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50806</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50807">
+      <Name>A1Q</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="847" max="847" />
+      <MarketRent min="2185" max="2315" />
+      <EffectiveRent min="2185" max="2315" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50807</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50808">
+      <Name>A1O</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="764" max="764" />
+      <MarketRent min="1917" max="1917" />
+      <EffectiveRent min="1917" max="1917" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50808</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50809">
+      <Name>A1M</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="759" max="759" />
+      <MarketRent min="1903" max="1903" />
+      <EffectiveRent min="1903" max="1903" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50809</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50810">
+      <Name>A1G</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="699" max="699" />
+      <MarketRent min="1803" max="1813" />
+      <EffectiveRent min="1803" max="1813" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50810</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50811">
+      <Name>A1BL</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="927" max="927" />
+      <MarketRent min="2193" max="2193" />
+      <EffectiveRent min="2193" max="2193" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50811</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50812">
+      <Name>A1F</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="692" max="692" />
+      <MarketRent min="1825" max="1965" />
+      <EffectiveRent min="1825" max="1965" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50812</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50813">
+      <Name>A1B</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="643" max="643" />
+      <MarketRent min="1868" max="1868" />
+      <EffectiveRent min="1868" max="1868" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50813</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50814">
+      <Name>A1P</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="766" max="766" />
+      <MarketRent min="1960" max="2090" />
+      <EffectiveRent min="1960" max="2090" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50814</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50815">
+      <Name>A1K</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="757" max="757" />
+      <MarketRent min="1960" max="2090" />
+      <EffectiveRent min="1960" max="2090" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50815</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50816">
+      <Name>A1C</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="683" max="683" />
+      <MarketRent min="1803" max="1892" />
+      <EffectiveRent min="1803" max="1892" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50816</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50817">
+      <Name>A1H</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="717" max="717" />
+      <MarketRent min="1898" max="1898" />
+      <EffectiveRent min="1898" max="1898" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50817</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50818">
+      <Name>A1A</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="577" max="577" />
+      <MarketRent min="1868" max="1868" />
+      <EffectiveRent min="1868" max="1868" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50818</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50819">
+      <Name>A1E</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="687" max="687" />
+      <MarketRent min="1950" max="1950" />
+      <EffectiveRent min="1950" max="1950" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50819</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50820">
+      <Name>A1I</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="719" max="719" />
+      <MarketRent min="1975" max="2005" />
+      <EffectiveRent min="1975" max="2005" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50820</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50821">
+      <Name>A1D</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="684" max="684" />
+      <MarketRent min="1950" max="1980" />
+      <EffectiveRent min="1950" max="1980" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50821</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50822">
+      <Name>A1AL</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="798" max="798" />
+      <MarketRent min="2190" max="2190" />
+      <EffectiveRent min="2190" max="2190" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50822</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50823">
+      <Name>A1SL</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="912" max="912" />
+      <MarketRent min="2299" max="2299" />
+      <EffectiveRent min="2299" max="2299" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50823</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50824">
+      <Name>A1J</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="723" max="723" />
+      <MarketRent min="1935" max="1935" />
+      <EffectiveRent min="1935" max="1935" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50824</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50825">
+      <Name>A1FN</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="892" max="892" />
+      <MarketRent min="2240" max="2240" />
+      <EffectiveRent min="2240" max="2240" />
+      <Deposit type="Security Deposit">
+        <Amount>150</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50825</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50826">
+      <Name>A1CLN</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1120" max="1120" />
+      <MarketRent min="2665" max="2665" />
+      <EffectiveRent min="2665" max="2665" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50826</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50827">
+      <Name>A1BN</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="804" max="804" />
+      <MarketRent min="2064" max="2064" />
+      <EffectiveRent min="2064" max="2064" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50827</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50828">
+      <Name>A1CN</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="804" max="804" />
+      <MarketRent min="2215" max="2325" />
+      <EffectiveRent min="2215" max="2325" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50828</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50829">
+      <Name>A1AN</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="799" max="799" />
+      <MarketRent min="2195" max="2195" />
+      <EffectiveRent min="2195" max="2195" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50829</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50830">
+      <Name>A1HNL</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1104" max="1104" />
+      <MarketRent min="2665" max="2665" />
+      <EffectiveRent min="2665" max="2665" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50830</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50831">
+      <Name>A1DN</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="817" max="817" />
+      <MarketRent min="2275" max="2305" />
+      <EffectiveRent min="2275" max="2305" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50831</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50832">
+      <Name>A1GNL</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1075" max="1075" />
+      <MarketRent min="2640" max="2640" />
+      <EffectiveRent min="2640" max="2640" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50832</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50833">
+      <Name>A1EN</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="841" max="841" />
+      <MarketRent min="2285" max="2415" />
+      <EffectiveRent min="2285" max="2415" />
+      <Deposit type="Security Deposit">
+        <Amount>100</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50833</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50834">
+      <Name>B2A1</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1000" max="1000" />
+      <MarketRent min="2575" max="2715" />
+      <EffectiveRent min="2575" max="2715" />
+      <Deposit type="Security Deposit">
+        <Amount>200</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50834</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50835">
+      <Name>B2F</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1083" max="1083" />
+      <MarketRent min="2675" max="2705" />
+      <EffectiveRent min="2675" max="2705" />
+      <Deposit type="Security Deposit">
+        <Amount>200</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50835</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50836">
+      <Name>B2I</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1108" max="1108" />
+      <MarketRent min="2735" max="2755" />
+      <EffectiveRent min="2735" max="2755" />
+      <Deposit type="Security Deposit">
+        <Amount>200</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50836</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50837">
+      <Name>B2AL</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1410" max="1410" />
+      <MarketRent min="3315" max="3315" />
+      <EffectiveRent min="3315" max="3315" />
+      <Deposit type="Security Deposit">
+        <Amount>200</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50837</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50838">
+      <Name>B2RL</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1335" max="1335" />
+      <MarketRent min="3240" max="3240" />
+      <EffectiveRent min="3240" max="3240" />
+      <Deposit type="Security Deposit">
+        <Amount>200</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50838</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50839">
+      <Name>B2B</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1046" max="1046" />
+      <MarketRent min="2537" max="2546" />
+      <EffectiveRent min="2537" max="2546" />
+      <Deposit type="Security Deposit">
+        <Amount>200</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50839</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50840">
+      <Name>B2QL</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1290" max="1290" />
+      <MarketRent min="3240" max="3240" />
+      <EffectiveRent min="3240" max="3240" />
+      <Deposit type="Security Deposit">
+        <Amount>200</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50840</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50841">
+      <Name>B2J</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1150" max="1150" />
+      <MarketRent min="2585" max="2595" />
+      <EffectiveRent min="2585" max="2595" />
+      <Deposit type="Security Deposit">
+        <Amount>200</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50841</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50842">
+      <Name>B2G</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1084" max="1084" />
+      <MarketRent min="2600" max="2740" />
+      <EffectiveRent min="2600" max="2740" />
+      <Deposit type="Security Deposit">
+        <Amount>200</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50842</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50843">
+      <Name>B2M</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1168" max="1168" />
+      <MarketRent min="2655" max="2765" />
+      <EffectiveRent min="2655" max="2765" />
+      <Deposit type="Security Deposit">
+        <Amount>200</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50843</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50844">
+      <Name>B2C</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1068" max="1068" />
+      <MarketRent min="2575" max="2740" />
+      <EffectiveRent min="2575" max="2740" />
+      <Deposit type="Security Deposit">
+        <Amount>200</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50844</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50845">
+      <Name>B2H</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1107" max="1107" />
+      <MarketRent min="2592" max="2592" />
+      <EffectiveRent min="2592" max="2592" />
+      <Deposit type="Security Deposit">
+        <Amount>200</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50845</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50846">
+      <Name>B2K</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1161" max="1161" />
+      <MarketRent min="2706" max="2716" />
+      <EffectiveRent min="2706" max="2716" />
+      <Deposit type="Security Deposit">
+        <Amount>200</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50846</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50847">
+      <Name>B2BL</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1535" max="1535" />
+      <MarketRent min="3715" max="3715" />
+      <EffectiveRent min="3715" max="3715" />
+      <Deposit type="Security Deposit">
+        <Amount>200</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50847</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50848">
+      <Name>B2E</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1082" max="1082" />
+      <MarketRent min="2660" max="2790" />
+      <EffectiveRent min="2660" max="2790" />
+      <Deposit type="Security Deposit">
+        <Amount>200</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50848</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50849">
+      <Name>B2A2</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1000" max="1000" />
+      <MarketRent min="2535" max="2555" />
+      <EffectiveRent min="2535" max="2555" />
+      <Deposit type="Security Deposit">
+        <Amount>200</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50849</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50850">
+      <Name>B2D</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1081" max="1081" />
+      <MarketRent min="2600" max="2740" />
+      <EffectiveRent min="2600" max="2740" />
+      <Deposit type="Security Deposit">
+        <Amount>200</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50850</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50851">
+      <Name>B2A3</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1000" max="1000" />
+      <MarketRent min="2525" max="2535" />
+      <EffectiveRent min="2525" max="2535" />
+      <Deposit type="Security Deposit">
+        <Amount>200</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50851</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50852">
+      <Name>B2OL</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1212" max="1212" />
+      <MarketRent min="2976" max="2976" />
+      <EffectiveRent min="2976" max="2976" />
+      <Deposit type="Security Deposit">
+        <Amount>200</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50852</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="50853">
+      <Name>B2P</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1256" max="1256" />
+      <MarketRent min="2760" max="2890" />
+      <EffectiveRent min="2760" max="2890" />
+      <Deposit type="Security Deposit">
+        <Amount>200</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.bellapartmentliving.com/va/alexandria/bell-del-ray//availability.asp?FPID=50853</General>
+      </Amenities>
+    </Floorplan>
+    <Amenities>
+      <Community>
+        <General>
+          <AmenityName>Preferred Employer Available</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Scenic View</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>WiFi Available</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>New Amenities - Now Open!</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>7,700 sq ft dedicated to Amenities</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>3 Resort Pools - 2 are Infinity Lap Pools </AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>24-Hr Wellness Center with Cardio &amp; Free Weights</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Resident Lounge &amp; Media Room</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Game Room with TV &amp; Billiards </AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Outdoor Kitchen with Fireplace &amp; Several Lounge Areas</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Onsite Gated Garage Parking</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Smoke Free &amp; NGBS Bronze Certified</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Elevator Access to On-Site Retail</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Doorstep Dry Cleaning Service</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Package Service &amp; Nationwide Transfer Program</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Walking Distance to Braddock Metro - Blue &amp; Yellow Lines</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Valet Trash Service &amp; Pet Friendly</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+      </Community>
+      <Floorplan>
+        <General>
+          <AmenityName>High Speed Access</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Elevator Access </AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Beautiful Granite Countertops</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Brand New Interiors - Now Available! 5 to 24 Month Lease Terms</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>GE Stainless-Steel Appliance Package</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>GE Washer/Dryer in Every Home</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Walk-in Closets, 9-10 Ft Ceilings</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Oversized Ceramic Tile, Curved Shower Rods in Baths</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Large windows throughout for sunlight </AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Online Service Request &amp; Rent Payment </AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>USB Outlets in Every Home</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Rich, Wood Plank Flooring</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>1 &amp; 2 Bedrooms - Den &amp; Loft Options</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Custom, Espresso Cabinets</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Brushed Nickel Accents &amp; Lighting</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Kitchen Island and Balcony Option</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+        </General>
+      </Floorplan>
+    </Amenities>
+    <Utility>
+      <AirCon>False</AirCon>
+      <BroadbandInternet>False</BroadbandInternet>
+      <Cable>False</Cable>
+      <Electric>False</Electric>
+      <Gas>False</Gas>
+      <Heat>False</Heat>
+      <HotWater>False</HotWater>
+      <Satellite>False</Satellite>
+      <Sewer>False</Sewer>
+      <Telephone>False</Telephone>
+      <Trash>False</Trash>
+      <Water>False</Water>
+      <UtilityPortionIncluded>False</UtilityPortionIncluded>
+    </Utility>
+    <File id="95700" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Kitchen and Living Room Rendering</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bell-del-ray-model-single-kitchen-lr-2-11-14.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>3</Rank>
+    </File>
+    <File id="97402" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Living Room</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/liv_3.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>4</Rank>
+    </File>
+    <File id="97338" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Business Center</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bell-del-ray-computer-room-2-11-14.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>10</Rank>
+    </File>
+    <File id="97337" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Clubroom</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bell-del-ray-clubroom-kitchen-1-2-11-14.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>11</Rank>
+    </File>
+    <File id="104058" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Fitness Center</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bell-del-ray-strength-training-room-6112014.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>12</Rank>
+    </File>
+    <File id="123445" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/belldelray_bld_5_2053_mid.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>13</Rank>
+    </File>
+    <File id="95699" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Kitchen and Dining Room</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bell-del-ray-model-single-kitchen-8x12-2-10-14.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>14</Rank>
+    </File>
+    <File id="97342" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Bedroom</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bell-del-ray-model-single-bedroom-2-2-10-14.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>15</Rank>
+    </File>
+    <File id="97343" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Bedroom</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bell-del-ray-model-single-bedroom-2-10-14.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>16</Rank>
+    </File>
+    <File id="97345" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Living Room</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bell-del-ray-model-single-living-room-2-10-14.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>17</Rank>
+    </File>
+    <File id="97344" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Kitchen</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bell-del-ray-model-single-kitchen-8x10-2-10-14.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>18</Rank>
+    </File>
+    <File id="97346" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Bathroom</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bell-del-ray-model-single-master-bath-2-2-10-14.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>19</Rank>
+    </File>
+    <File id="97347" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Bathroom</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bell-del-ray-model-single-master-bath-2-10-14.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>20</Rank>
+    </File>
+    <File id="97348" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Den</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bell-del-ray-model-single-office-2-2-10-14.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>21</Rank>
+    </File>
+    <File id="97396" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Bathroom</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bath_3.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>22</Rank>
+    </File>
+    <File id="97397" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Bathroom</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bath_4.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>23</Rank>
+    </File>
+    <File id="97399" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Bedroom</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bdrm_4.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>24</Rank>
+    </File>
+    <File id="97398" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Bedroom</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bdrm_3.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>25</Rank>
+    </File>
+    <File id="97400" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Bedroom</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bdrm_5.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>26</Rank>
+    </File>
+    <File id="97403" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Washer and Dryer</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/wd_1.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>27</Rank>
+    </File>
+    <File id="104059" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Upgraded finishes available</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bell-del-ray-upgrade-kitchen-6112014.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>28</Rank>
+    </File>
+    <File id="104057" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Outdoor Kitchen</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bell-del-ray-pool-courtyard-3-6112014.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>29</Rank>
+    </File>
+    <File id="106326" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Courtyard with Flat Screen TVs</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/ctyd_2.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>30</Rank>
+    </File>
+    <File id="106325" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Courtyard with Outdoor Kitchen</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/ctyd_1.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>31</Rank>
+    </File>
+    <File id="106327" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Courtyard</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/ctyd_3.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>32</Rank>
+    </File>
+    <File id="106324" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Apartment Living at Its Best</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bld_2.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>33</Rank>
+    </File>
+    <File id="123455" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/belldelray_pl_7_118_mid.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>34</Rank>
+    </File>
+    <File id="123454" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/belldelray_pl_6_363_mid.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>35</Rank>
+    </File>
+    <File id="123453" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/belldelray_pl_5_1847_mid.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>36</Rank>
+    </File>
+    <File id="123452" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/belldelray_pl_4_51_mid.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>37</Rank>
+    </File>
+    <File id="106329" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Bell Del Ray Leasing Office</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/ent_1.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>38</Rank>
+    </File>
+    <File id="106330" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Bell Del Ray</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/ent_2.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>39</Rank>
+    </File>
+    <File id="97339" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption>Conference Room</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/bell-del-ray-conference-room-2-11-14.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>40</Rank>
+    </File>
+    <File id="123443" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/belldelray_bld_3_59_mid.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>41</Rank>
+    </File>
+    <File id="123444" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/belldelray_bld_4_87_mid.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>42</Rank>
+    </File>
+    <File id="123446" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/belldelray_bld_6_1434_mid.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>43</Rank>
+    </File>
+    <File id="123447" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/belldelray_com_1_1289_mid.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>44</Rank>
+    </File>
+    <File id="123448" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/belldelray_com_2_1839_mid.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>45</Rank>
+    </File>
+    <File id="123449" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/belldelray_com_3_1225_mid.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>46</Rank>
+    </File>
+    <File id="123450" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/belldelray_com_4_843_mid.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>47</Rank>
+    </File>
+    <File id="123451" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/20550/belldelray_com_5_740_mid.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>48</Rank>
+    </File>
+    <File id="50804" active="True">
+      <Type>floorplan</Type>
+      <Name>S1</Name>
+      <Caption>1 Bedroom / 1 Bath / 517 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50804</Src>
+      <Width />
+      <Height />
+      <Rank>0</Rank>
+    </File>
+    <File id="50805" active="True">
+      <Type>floorplan</Type>
+      <Name>A1G2</Name>
+      <Caption>1 Bedroom / 1 Bath / 699 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50805</Src>
+      <Width />
+      <Height />
+      <Rank>7</Rank>
+    </File>
+    <File id="50806" active="True">
+      <Type>floorplan</Type>
+      <Name>A1R</Name>
+      <Caption>1 Bedroom / 1 Bath / 887 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50806</Src>
+      <Width />
+      <Height />
+      <Rank>23</Rank>
+    </File>
+    <File id="50807" active="True">
+      <Type>floorplan</Type>
+      <Name>A1Q</Name>
+      <Caption>1 Bedroom / 1 Bath / 847 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50807</Src>
+      <Width />
+      <Height />
+      <Rank>22</Rank>
+    </File>
+    <File id="50808" active="True">
+      <Type>floorplan</Type>
+      <Name>A1O</Name>
+      <Caption>1 Bedroom / 1 Bath / 764 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50808</Src>
+      <Width />
+      <Height />
+      <Rank>14</Rank>
+    </File>
+    <File id="50809" active="True">
+      <Type>floorplan</Type>
+      <Name>A1M</Name>
+      <Caption>1 Bedroom / 1 Bath / 759 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50809</Src>
+      <Width />
+      <Height />
+      <Rank>13</Rank>
+    </File>
+    <File id="50810" active="True">
+      <Type>floorplan</Type>
+      <Name>A1G</Name>
+      <Caption>1 Bedroom / 1 Bath / 699 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50810</Src>
+      <Width />
+      <Height />
+      <Rank>8</Rank>
+    </File>
+    <File id="50811" active="True">
+      <Type>floorplan</Type>
+      <Name>A1BL</Name>
+      <Caption>1 Bedroom / 1 Bath / 927 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50811</Src>
+      <Width />
+      <Height />
+      <Rank>26</Rank>
+    </File>
+    <File id="50812" active="True">
+      <Type>floorplan</Type>
+      <Name>A1F</Name>
+      <Caption>1 Bedroom / 1 Bath / 692 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50812</Src>
+      <Width />
+      <Height />
+      <Rank>6</Rank>
+    </File>
+    <File id="50813" active="True">
+      <Type>floorplan</Type>
+      <Name>A1B</Name>
+      <Caption>1 Bedroom / 1 Bath / 643 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50813</Src>
+      <Width />
+      <Height />
+      <Rank>2</Rank>
+    </File>
+    <File id="50814" active="True">
+      <Type>floorplan</Type>
+      <Name>A1P</Name>
+      <Caption>1 Bedroom / 1 Bath / 766 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50814</Src>
+      <Width />
+      <Height />
+      <Rank>15</Rank>
+    </File>
+    <File id="50815" active="True">
+      <Type>floorplan</Type>
+      <Name>A1K</Name>
+      <Caption>1 Bedroom / 1 Bath / 757 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50815</Src>
+      <Width />
+      <Height />
+      <Rank>12</Rank>
+    </File>
+    <File id="50816" active="True">
+      <Type>floorplan</Type>
+      <Name>A1C</Name>
+      <Caption>1 Bedroom / 1 Bath / 683 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50816</Src>
+      <Width />
+      <Height />
+      <Rank>3</Rank>
+    </File>
+    <File id="50817" active="True">
+      <Type>floorplan</Type>
+      <Name>A1H</Name>
+      <Caption>1 Bedroom / 1 Bath / 717 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50817</Src>
+      <Width />
+      <Height />
+      <Rank>9</Rank>
+    </File>
+    <File id="50818" active="True">
+      <Type>floorplan</Type>
+      <Name>A1A</Name>
+      <Caption>1 Bedroom / 1 Bath / 577 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50818</Src>
+      <Width />
+      <Height />
+      <Rank>1</Rank>
+    </File>
+    <File id="50819" active="True">
+      <Type>floorplan</Type>
+      <Name>A1E</Name>
+      <Caption>1 Bedroom / 1 Bath / 687 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50819</Src>
+      <Width />
+      <Height />
+      <Rank>5</Rank>
+    </File>
+    <File id="50820" active="True">
+      <Type>floorplan</Type>
+      <Name>A1I</Name>
+      <Caption>1 Bedroom / 1 Bath / 719 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50820</Src>
+      <Width />
+      <Height />
+      <Rank>10</Rank>
+    </File>
+    <File id="50821" active="True">
+      <Type>floorplan</Type>
+      <Name>A1D</Name>
+      <Caption>1 Bedroom / 1 Bath / 684 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50821</Src>
+      <Width />
+      <Height />
+      <Rank>4</Rank>
+    </File>
+    <File id="50822" active="True">
+      <Type>floorplan</Type>
+      <Name>A1AL</Name>
+      <Caption>1 Bedroom / 1 Bath / 798 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50822</Src>
+      <Width />
+      <Height />
+      <Rank>16</Rank>
+    </File>
+    <File id="50823" active="True">
+      <Type>floorplan</Type>
+      <Name>A1SL</Name>
+      <Caption>1 Bedroom / 1 Bath / 912 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50823</Src>
+      <Width />
+      <Height />
+      <Rank>25</Rank>
+    </File>
+    <File id="50824" active="True">
+      <Type>floorplan</Type>
+      <Name>A1J</Name>
+      <Caption>1 Bedroom / 1 Bath / 723 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50824</Src>
+      <Width />
+      <Height />
+      <Rank>11</Rank>
+    </File>
+    <File id="50825" active="True">
+      <Type>floorplan</Type>
+      <Name>A1FN</Name>
+      <Caption>1 Bedroom / 1 Bath / 892 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50825</Src>
+      <Width />
+      <Height />
+      <Rank>24</Rank>
+    </File>
+    <File id="50826" active="True">
+      <Type>floorplan</Type>
+      <Name>A1CLN</Name>
+      <Caption>1 Bedroom / 1 Bath / 1120 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50826</Src>
+      <Width />
+      <Height />
+      <Rank>29</Rank>
+    </File>
+    <File id="50827" active="True">
+      <Type>floorplan</Type>
+      <Name>A1BN</Name>
+      <Caption>1 Bedroom / 1 Bath / 804 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50827</Src>
+      <Width />
+      <Height />
+      <Rank>18</Rank>
+    </File>
+    <File id="50828" active="True">
+      <Type>floorplan</Type>
+      <Name>A1CN</Name>
+      <Caption>1 Bedroom / 1 Bath / 804 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50828</Src>
+      <Width />
+      <Height />
+      <Rank>19</Rank>
+    </File>
+    <File id="50829" active="True">
+      <Type>floorplan</Type>
+      <Name>A1AN</Name>
+      <Caption>1 Bedroom / 1 Bath / 799 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50829</Src>
+      <Width />
+      <Height />
+      <Rank>17</Rank>
+    </File>
+    <File id="50830" active="True">
+      <Type>floorplan</Type>
+      <Name>A1HNL</Name>
+      <Caption>1 Bedroom / 1 Bath / 1104 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50830</Src>
+      <Width />
+      <Height />
+      <Rank>28</Rank>
+    </File>
+    <File id="50831" active="True">
+      <Type>floorplan</Type>
+      <Name>A1DN</Name>
+      <Caption>1 Bedroom / 1 Bath / 817 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50831</Src>
+      <Width />
+      <Height />
+      <Rank>20</Rank>
+    </File>
+    <File id="50832" active="True">
+      <Type>floorplan</Type>
+      <Name>A1GNL</Name>
+      <Caption>1 Bedroom / 1 Bath / 1075 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50832</Src>
+      <Width />
+      <Height />
+      <Rank>27</Rank>
+    </File>
+    <File id="50833" active="True">
+      <Type>floorplan</Type>
+      <Name>A1EN</Name>
+      <Caption>1 Bedroom / 1 Bath / 841 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50833</Src>
+      <Width />
+      <Height />
+      <Rank>21</Rank>
+    </File>
+    <File id="50834" active="True">
+      <Type>floorplan</Type>
+      <Name>B2A1</Name>
+      <Caption>2 Bedroom / 2 Bath / 1000 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50834</Src>
+      <Width />
+      <Height />
+      <Rank>30</Rank>
+    </File>
+    <File id="50835" active="True">
+      <Type>floorplan</Type>
+      <Name>B2F</Name>
+      <Caption>2 Bedroom / 2 Bath / 1083 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50835</Src>
+      <Width />
+      <Height />
+      <Rank>37</Rank>
+    </File>
+    <File id="50836" active="True">
+      <Type>floorplan</Type>
+      <Name>B2I</Name>
+      <Caption>2 Bedroom / 2 Bath / 1108 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50836</Src>
+      <Width />
+      <Height />
+      <Rank>40</Rank>
+    </File>
+    <File id="50837" active="True">
+      <Type>floorplan</Type>
+      <Name>B2AL</Name>
+      <Caption>2 Bedroom / 2 Bath / 1410 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50837</Src>
+      <Width />
+      <Height />
+      <Rank>48</Rank>
+    </File>
+    <File id="50838" active="True">
+      <Type>floorplan</Type>
+      <Name>B2RL</Name>
+      <Caption>2 Bedroom / 2 Bath / 1335 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50838</Src>
+      <Width />
+      <Height />
+      <Rank>47</Rank>
+    </File>
+    <File id="50839" active="True">
+      <Type>floorplan</Type>
+      <Name>B2B</Name>
+      <Caption>2 Bedroom / 2 Bath / 1046 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50839</Src>
+      <Width />
+      <Height />
+      <Rank>33</Rank>
+    </File>
+    <File id="50840" active="True">
+      <Type>floorplan</Type>
+      <Name>B2QL</Name>
+      <Caption>2 Bedroom / 2 Bath / 1290 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50840</Src>
+      <Width />
+      <Height />
+      <Rank>46</Rank>
+    </File>
+    <File id="50841" active="True">
+      <Type>floorplan</Type>
+      <Name>B2J</Name>
+      <Caption>2 Bedroom / 2 Bath / 1150 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50841</Src>
+      <Width />
+      <Height />
+      <Rank>41</Rank>
+    </File>
+    <File id="50842" active="True">
+      <Type>floorplan</Type>
+      <Name>B2G</Name>
+      <Caption>2 Bedroom / 2 Bath / 1084 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50842</Src>
+      <Width />
+      <Height />
+      <Rank>38</Rank>
+    </File>
+    <File id="50843" active="True">
+      <Type>floorplan</Type>
+      <Name>B2M</Name>
+      <Caption>2 Bedroom / 2 Bath / 1168 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50843</Src>
+      <Width />
+      <Height />
+      <Rank>43</Rank>
+    </File>
+    <File id="50844" active="True">
+      <Type>floorplan</Type>
+      <Name>B2C</Name>
+      <Caption>2 Bedroom / 2 Bath / 1068 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50844</Src>
+      <Width />
+      <Height />
+      <Rank>34</Rank>
+    </File>
+    <File id="50845" active="True">
+      <Type>floorplan</Type>
+      <Name>B2H</Name>
+      <Caption>2 Bedroom / 2 Bath / 1107 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50845</Src>
+      <Width />
+      <Height />
+      <Rank>39</Rank>
+    </File>
+    <File id="50846" active="True">
+      <Type>floorplan</Type>
+      <Name>B2K</Name>
+      <Caption>2 Bedroom / 2 Bath / 1161 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50846</Src>
+      <Width />
+      <Height />
+      <Rank>42</Rank>
+    </File>
+    <File id="50847" active="True">
+      <Type>floorplan</Type>
+      <Name>B2BL</Name>
+      <Caption>2 Bedroom / 2 Bath / 1535 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50847</Src>
+      <Width />
+      <Height />
+      <Rank>49</Rank>
+    </File>
+    <File id="50848" active="True">
+      <Type>floorplan</Type>
+      <Name>B2E</Name>
+      <Caption>2 Bedroom / 2 Bath / 1082 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50848</Src>
+      <Width />
+      <Height />
+      <Rank>36</Rank>
+    </File>
+    <File id="50849" active="True">
+      <Type>floorplan</Type>
+      <Name>B2A2</Name>
+      <Caption>2 Bedroom / 2 Bath / 1000 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50849</Src>
+      <Width />
+      <Height />
+      <Rank>31</Rank>
+    </File>
+    <File id="50850" active="True">
+      <Type>floorplan</Type>
+      <Name>B2D</Name>
+      <Caption>2 Bedroom / 2 Bath / 1081 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50850</Src>
+      <Width />
+      <Height />
+      <Rank>35</Rank>
+    </File>
+    <File id="50851" active="True">
+      <Type>floorplan</Type>
+      <Name>B2A3</Name>
+      <Caption>2 Bedroom / 2 Bath / 1000 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50851</Src>
+      <Width />
+      <Height />
+      <Rank>32</Rank>
+    </File>
+    <File id="50852" active="True">
+      <Type>floorplan</Type>
+      <Name>B2OL</Name>
+      <Caption>2 Bedroom / 2 Bath / 1212 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50852</Src>
+      <Width />
+      <Height />
+      <Rank>44</Rank>
+    </File>
+    <File id="50853" active="True">
+      <Type>floorplan</Type>
+      <Name>B2P</Name>
+      <Caption>2 Bedroom / 2 Bath / 1256 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=50853</Src>
+      <Width />
+      <Height />
+      <Rank>45</Rank>
+    </File>
+  </Property>
+  <Property managementId="951">
+    <Identification type="apartment" rentaltype="standard">
+      <PrimaryID>23698</PrimaryID>
+      <MarketingName>The Towers By The Park</MarketingName>
+      <OwnerLegalName />
+      <Address>
+        <Address1>1750 FM 423</Address1>
+        <City>Frisco</City>
+        <State>TX</State>
+        <Zip>75033</Zip>
+        <Country>United States</Country>
+        <PO_Box />
+        <MailingAddress />
+        <ShippingAddress />
+      </Address>
+      <Latitude>33.160367</Latitude>
+      <Longitude>-96.891732</Longitude>
+      <Phone>
+        <Number>(866) 275-7192</Number>
+        <Description>Phone</Description>
+      </Phone>
+      <Fax>
+        <Number>(972) 335-7502</Number>
+      </Fax>
+      <Website>www.TowersByThePark.com</Website>
+    </Identification>
+    <Information>
+      <StructureType>Standard</StructureType>
+      <UnitCount />
+      <OfficeHour>
+        <OpenTime>10:00 AM</OpenTime>
+        <CloseTime>7:00 PM</CloseTime>
+        <Day>Su</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>8:00 AM</OpenTime>
+        <CloseTime>8:00 PM</CloseTime>
+        <Day>M</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>8:00 AM</OpenTime>
+        <CloseTime>8:00 PM</CloseTime>
+        <Day>T</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>8:00 AM</OpenTime>
+        <CloseTime>8:00 PM</CloseTime>
+        <Day>W</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>8:00 AM</OpenTime>
+        <CloseTime>8:00 PM</CloseTime>
+        <Day>Th</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>8:00 AM</OpenTime>
+        <CloseTime>8:00 PM</CloseTime>
+        <Day>F</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>8:00 AM</OpenTime>
+        <CloseTime>8:00 PM</CloseTime>
+        <Day>SA</Day>
+      </OfficeHour>
+      <LongDescription>The Towers by the Park located in Frisco, Tx boasts a modern and luxurious community experience that makes it easier than ever to balance work and play. Our accommodating community is completely tailored around you and we're proud to offer everything from a 150-foot resort-style pool and tanning deck to a state-of-the-art fitness center and a Starbucks&amp;reg; WiFi lounge with coffee bar.
+
+
+
+At The Towers by the Park no detail has been overlooked. Each of our 1, 2, 3 and 4 bedroom apartments are fitted with modern and stylish features, including solid granite kitchen countertops, pendant lighting, stainless steel appliances and rainwater showerheads to maximize your comfort and create a day-to-day living experience unlike any other. The Towers by the Park is the place to be, when renting a new modern luxury apartments in the heart of Frisco, TX.</LongDescription>
+      <LeaseLength />
+      <DrivingDirections>From Dallas North Tollway, go north, exit Cotton Gin/Main Street left (west), right on FM 423, Towers is on the left side.</DrivingDirections>
+    </Information>
+    <Promotional>$250 off 1st month's rent*   
+
+                                                                  &lt;strong style="font-weight: bold;</Promotional>
+    <OnSiteContact type="Property manager">
+      <FirstName />
+      <LastName />
+      <Title />
+      <Email>leasing@towersbythepark.com</Email>
+      <Phone>
+        <Number>(866) 275-7192</Number>
+        <Description>Phone</Description>
+      </Phone>
+    </OnSiteContact>
+    <Policy />
+    <Floorplan id="51666">
+      <Name>Broadway</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="652" max="652" />
+      <MarketRent min="1139" max="1254" />
+      <EffectiveRent min="1139" max="1254" />
+      <Deposit type="Security Deposit">
+        <Amount>0</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.towersbythepark.com/availability.asp?FPID=51666</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="51669">
+      <Name>Gramercy</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="804" max="804" />
+      <MarketRent min="1191" max="1476" />
+      <EffectiveRent min="1191" max="1476" />
+      <Deposit type="Security Deposit">
+        <Amount>0</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.towersbythepark.com/availability.asp?FPID=51669</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="51671">
+      <Name>Hampton</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1045" max="1045" />
+      <MarketRent min="1985" max="1985" />
+      <EffectiveRent min="1985" max="1985" />
+      <Deposit type="Security Deposit">
+        <Amount>0</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.towersbythepark.com/availability.asp?FPID=51671</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="51672">
+      <Name>Manhattan</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1249" max="1249" />
+      <MarketRent min="1804" max="2261" />
+      <EffectiveRent min="1804" max="2261" />
+      <Deposit type="Security Deposit">
+        <Amount>0</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.towersbythepark.com/availability.asp?FPID=51672</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="51674">
+      <Name>Midtown</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>3</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1532" max="1532" />
+      <MarketRent min="2106" max="2411" />
+      <EffectiveRent min="2106" max="2411" />
+      <Deposit type="Security Deposit">
+        <Amount>0</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.towersbythepark.com/availability.asp?FPID=51674</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="51676">
+      <Name>Rockefeller</Name>
+      <Comment />
+      <UnitCount />
+      <Room type="bedroom">
+        <Count>4</Count>
+        <Comment />
+      </Room>
+      <Room type="bathroom">
+        <Count>4</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1850" max="1850" />
+      <MarketRent min="2457" max="3142" />
+      <EffectiveRent min="2457" max="3142" />
+      <Deposit type="Security Deposit">
+        <Amount>0</Amount>
+        <Description />
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Amenities>
+        <General>http://www.towersbythepark.com/availability.asp?FPID=51676</General>
+      </Amenities>
+    </Floorplan>
+    <Amenities>
+      <Community>
+        <Available24Hours>False</Available24Hours>
+        <BasketballCourt>False</BasketballCourt>
+        <BusinessCenter>False</BusinessCenter>
+        <ChildCare>False</ChildCare>
+        <ClubDiscount>False</ClubDiscount>
+        <ClubHouse>False</ClubHouse>
+        <Concierge>False</Concierge>
+        <CoverPark>False</CoverPark>
+        <DoorAttendant>False</DoorAttendant>
+        <FitnessCenter>False</FitnessCenter>
+        <Elevator>False</Elevator>
+        <FreeWeights>False</FreeWeights>
+        <Garage>False</Garage>
+        <Gate>False</Gate>
+        <GroupExcercise>False</GroupExcercise>
+        <GuestRoom>False</GuestRoom>
+        <HighSpeed>False</HighSpeed>
+        <Housekeeping>False</Housekeeping>
+        <HouseSitting>False</HouseSitting>
+        <Laundry>False</Laundry>
+        <Library>False</Library>
+        <MealService>False</MealService>
+        <NightPatrol>False</NightPatrol>
+        <OnSiteMaintenance>False</OnSiteMaintenance>
+        <OnSiteManagement>False</OnSiteManagement>
+        <PackageReceiving>False</PackageReceiving>
+        <Pool>False</Pool>
+        <PlayGround>False</PlayGround>
+        <Racquetball>False</Racquetball>
+        <RecRoom>False</RecRoom>
+        <Sauna>False</Sauna>
+        <ShortTermLease>False</ShortTermLease>
+        <Spa>False</Spa>
+        <StorageSpace>False</StorageSpace>
+        <Sundeck>False</Sundeck>
+        <TennisCourt>False</TennisCourt>
+        <Transportation>False</Transportation>
+        <TVLounge>False</TVLounge>
+        <Vintage>False</Vintage>
+        <VolleyballCourt>False</VolleyballCourt>
+        <General>
+          <AmenityName>Outdoor Wi-Fi Lounge</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Stocked Pond with Fishing Pier</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Picnic Table &amp; Barbecue Areas</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>24/7 Emergency Maintenance Service</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Eco-Friendly, Non-Smoking Environment</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>AT&amp;T U-verse High Speed Internet</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Limited-Access Gates</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Convenient Mail Center</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Concierge Services</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Infinity Edge, Luxe 50-Meter (165-Foot Long) Swimming Pool &amp; Tanning Deck</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>24/7 Fully Equipped High-Tech Fitness Center with Cardio Theatre, Free Weights &amp; Training Stations</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Grand Lobby with HD TV &amp; Premium Audio System</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Executive Business Center with 27&amp;#39;&amp;#39; iMac Computers</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Community Events Including Catered Brunches &amp; Community Socials</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>One- to Four-Bedroom Elevator-Access Apartments</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Detached Private Garages &amp; Reserved First-Floor Parking</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Trellis Covered Outdoor Kitchen &amp; Conversational Fireplace Lounge</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Pet Friendly Community with Convenient Waste Stations</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Direct access to McCord Park</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Starbucks&amp;#174; Wi-Fi Caf&amp;#233;</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Game Room &amp; Billiards</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Private Tanning Facility</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+        <General>
+          <AmenityName>Luxury Poolside Cabanas</AmenityName>
+          <AmenityCharge />
+          <AmenityRank />
+          <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+        </General>
+      </Community>
+      <Floorplan>
+        <AdditionalStorage>False</AdditionalStorage>
+        <AirConditioner>False</AirConditioner>
+        <Alarm>False</Alarm>
+        <Balcony>False</Balcony>
+        <Cable>False</Cable>
+        <Carport>False</Carport>
+        <CeilingFan>False</CeilingFan>
+        <ControlledAccess>False</ControlledAccess>
+        <Courtyard>False</Courtyard>
+        <DishWasher>False</DishWasher>
+        <Disposal>False</Disposal>
+        <Dryer>False</Dryer>
+        <Fireplace>False</Fireplace>
+        <Furnished>False</Furnished>
+        <Garage>False</Garage>
+        <Handrails>False</Handrails>
+        <IndividualClimateControl>False</IndividualClimateControl>
+        <LargeClosets>False</LargeClosets>
+        <Microwave>False</Microwave>
+        <Patio>False</Patio>
+        <PrivateBalcony>False</PrivateBalcony>
+        <PrivatePatio>False</PrivatePatio>
+        <Refrigerator>False</Refrigerator>
+        <Skylight>False</Skylight>
+        <View>False</View>
+        <Washer>False</Washer>
+        <WheelChair>False</WheelChair>
+        <WD_Hookup>False</WD_Hookup>
+        <WindowCoverings>False</WindowCoverings>
+      </Floorplan>
+    </Amenities>
+    <Utility>
+      <AirCon>False</AirCon>
+      <BroadbandInternet>False</BroadbandInternet>
+      <Cable>False</Cable>
+      <Electric>False</Electric>
+      <Gas>False</Gas>
+      <Heat>False</Heat>
+      <HotWater>False</HotWater>
+      <Satellite>False</Satellite>
+      <Sewer>False</Sewer>
+      <Telephone>False</Telephone>
+      <Trash>False</Trash>
+      <Water>False</Water>
+      <UtilityPortionIncluded>False</UtilityPortionIncluded>
+    </Utility>
+    <File id="131176" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/1dsc_3363_720.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>129</Rank>
+    </File>
+    <File id="131177" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/1dsc_3392_720.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>130</Rank>
+    </File>
+    <File id="131178" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/2dsc_3259-hdr_720.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>131</Rank>
+    </File>
+    <File id="131179" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/3dsc_3220-hdr_720.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>132</Rank>
+    </File>
+    <File id="131180" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/4dsc_3223-hdr_720.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>133</Rank>
+    </File>
+    <File id="131181" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/5dsc_3238-hdr_720.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>134</Rank>
+    </File>
+    <File id="131182" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/6dsc_3229-hdr_720.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>135</Rank>
+    </File>
+    <File id="131183" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/7dsc_3241-hdr_720.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>136</Rank>
+    </File>
+    <File id="131184" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/8dsc_3322-hdr_720.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>137</Rank>
+    </File>
+    <File id="131185" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/9dsc_3286-hdr_720.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>138</Rank>
+    </File>
+    <File id="131186" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/10dsc_3289-hdr_720.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>139</Rank>
+    </File>
+    <File id="131187" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/11dsc_3307-hdr_720.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>140</Rank>
+    </File>
+    <File id="131188" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/12dsc_3318-hdr_720.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>141</Rank>
+    </File>
+    <File id="131189" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/13dsc_3346-hdr.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>142</Rank>
+    </File>
+    <File id="131190" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/14dsc_3384_720.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>143</Rank>
+    </File>
+    <File id="131191" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/15dsc_3353_720.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>144</Rank>
+    </File>
+    <File id="131192" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/16dsc_3365_720.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>145</Rank>
+    </File>
+    <File id="131193" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/17dsc_3367_720.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>146</Rank>
+    </File>
+    <File id="131194" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/18dsc_3391_720.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>147</Rank>
+    </File>
+    <File id="131195" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/19dsc_3382.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>148</Rank>
+    </File>
+    <File id="131196" active="True">
+      <Type>photo</Type>
+      <Name />
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://documents.ellipseinc.com/doccenter/images/23698/20dsc_3389_720.jpg</Src>
+      <Width />
+      <Height />
+      <Rank>149</Rank>
+    </File>
+    <File id="51666" active="True">
+      <Type>floorplan</Type>
+      <Name>Broadway</Name>
+      <Caption>1 Bedroom / 1 Bath / 652 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=51666</Src>
+      <Width />
+      <Height />
+      <Rank>0</Rank>
+    </File>
+    <File id="51669" active="True">
+      <Type>floorplan</Type>
+      <Name>Gramercy</Name>
+      <Caption>1 Bedroom / 1 Bath / 804 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=51669</Src>
+      <Width />
+      <Height />
+      <Rank>1</Rank>
+    </File>
+    <File id="51671" active="True">
+      <Type>floorplan</Type>
+      <Name>Hampton</Name>
+      <Caption>2 Bedroom / 2 Bath / 1045 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=51671</Src>
+      <Width />
+      <Height />
+      <Rank>2</Rank>
+    </File>
+    <File id="51672" active="True">
+      <Type>floorplan</Type>
+      <Name>Manhattan</Name>
+      <Caption>2 Bedroom / 2 Bath / 1249 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=51672</Src>
+      <Width />
+      <Height />
+      <Rank>3</Rank>
+    </File>
+    <File id="51674" active="True">
+      <Type>floorplan</Type>
+      <Name>Midtown</Name>
+      <Caption>3 Bedroom / 2 Bath / 1532 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=51674</Src>
+      <Width />
+      <Height />
+      <Rank>4</Rank>
+    </File>
+    <File id="51676" active="True">
+      <Type>floorplan</Type>
+      <Name>Rockefeller</Name>
+      <Caption>4 Bedroom / 4 Bath / 1850 Sq.Ft.</Caption>
+      <Format>image/jpeg</Format>
+      <Src>http://snaptshot.ellipseinc.net/pfImages.asp?data=51676</Src>
+      <Width />
+      <Height />
+      <Rank>5</Rank>
+    </File>
+  </Property>
+</PhysicalProperty>
