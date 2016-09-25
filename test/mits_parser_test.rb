@@ -1,3 +1,5 @@
+require 'nokogiri'
+
 require_relative "../lib/mits_parser/mits_parser.rb"
 require_relative "test_helper.rb"
 
@@ -7,42 +9,39 @@ How to run this test: bundle exec guard
 
 describe MitsParser do
 
-  let(:ash_mits_properties_data) do
-    path = File.join(FILE_DIR, "ash.xml")
-    xml  = File.read(path)
-    data = Hash.from_xml(xml)["PhysicalProperty"]
+  let(:single_xml_file) do
+    File.read("#{Dir.pwd}/test/fixtures/files/feed_f.xml")
   end
 
-  let(:maa_mits_properties_data) do
-    path = File.join(FILE_DIR, "maa.xml")
-    xml  = File.read(path)
-    data = Hash.from_xml(xml)["PhysicalProperty"]
-  end
+  let(:all_feed_xml_files) do
+    pattern   = File.join(Dir.pwd, "test", "fixtures", "files", "feed_*.xml")
+    filenames = Dir.glob(pattern)
 
-  let(:boz_mits_properties_data) do
-    path = File.join(FILE_DIR, "boz.xml")
-    xml  = File.read(path)
-    data = Hash.from_xml(xml)["PhysicalProperty"]
-  end
-
-  describe "#new" do
-    it "is a MitsQuery::Property" do
-      assert MitsParser.new(ash_mits_properties_data).is_a?(MitsParser)
-      assert MitsParser.new(boz_mits_properties_data).is_a?(MitsParser)
+    [].tap do |xml_files|
+      filenames.each do |file|
+        xml_files << File.read(file)
+      end
     end
   end
 
-  describe "#parse" do
-    let(:parsed) { MitsParser.new(ash_mits_properties_data).parse }
-    # let(:parsed) { MitsParser.new(boz_mits_properties_data).parse }
-    # let(:parsed) { MitsParser.new(maa_mits_properties_data).parse }
 
-    it "is an array of hashes" do
-      assert parsed.is_a?(Array)
-      assert parsed[0].is_a?(Hash)
+  # describe "#parse" do
+  #   let(:parsed) { MitsParser.new(single_xml_file).parse }
+  #
+  #   it "is an array of hashes" do
+  #
+  #     # TODO
+  #   end
+  # end
 
-      ap parsed.first[:lease_length_min]
+  describe "---development---" do
+    it "inspects things" do
+      puts
+      all_feed_xml_files.each do |xml_file|
+        MitsParser.new(xml_file).parse
 
+        puts '-' * 50
+      end
     end
   end
 
