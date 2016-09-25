@@ -1,124 +1,99 @@
-require "active_support/all"
-require "awesome_print"
-require "hashie"
-require "pry"
+# require "active_support/all"
+# require "awesome_print"
+# require "hashie"
+# require "pry"
 
 
 =begin
-A MitsParser object restructures a given piece of mits data into our
+The MitsParser.parse method restructures a given piece of mits data into our
 predetermined schema.
 ---
 Usage:
-  formatted_mits = MitsParser.new(feed_xml).parse
+  formatted_mits = MitsParser.parse(feed_xml)
   #==> Formatted array of hashes.
 =end
 
-class MitsParser
 
-  def initialize(parsed_feed)
+module MitsParser
 
-    puts MitsParser.dig("Array")
+  def self.parse(data)
 
-    # Determine the schema.
-    if has_files_nested_within_floorplan?(parsed_feed)
-      @parsed = ApartmentSchema::WithNestedFiles.new(parsed_feed).parse
-    elsif has_linked_files?(parsed_feed)
-      @parsed = ApartmentSchema::WithLinkedFiles.new(parsed_feed).parse
+    # Determine the schema type.
+    if has_files_nested_within_floorplan?(data)
+      @parsed = ApartmentSchema::WithNestedFiles.new(data).parse
+    elsif has_linked_files?(data)
+      @parsed = ApartmentSchema::WithLinkedFiles.new(data).parse
     else
-      @parsed = ApartmentSchema::Else.new(parsed_feed).parse
+      @parsed = ApartmentSchema::Else.new(data).parse
     end
   end
 
-  def parse
-    @parsed
+  def self.has_files_nested_within_floorplan?(data)
+    !!data.dig("Property", 0, "Floorplan", 0, "File") ||
+    !!data.dig("Property", 0, "Floorplan", 0, "Slideshow") ||
+    !!data.dig("Property", 0, "Floorplan", 0, "PhotoSet")
   end
 
-  def has_files_nested_within_floorplan?(parsed_feed)
-    # !!parsed_feed.at_xpath("//Floorplan//File") ||
-    # !!parsed_feed.at_xpath("//Floorplan//Slideshow") ||
-    # !!parsed_feed.at_xpath("//Floorplan//PhotoSet")
-  end
-
-  def has_linked_files?(parsed_feed)
-    # !!parsed_feed.xpath("//Property/Floorplan")[0]&.at_xpath("@id") &&
-    # !!parsed_feed.xpath("//Property/File")[0]&.at_xpath("@id")
+  def self.has_linked_files?(data)
+    !!data.dig("Property", 0, "Floorplan", 0, "id") &&
+    !!data.dig("Property", 0, "File",      0, "id")
   end
 
 
-  # =======================================================
-  # Utility class methods
-  # =======================================================
+  # ---
+  # ---
 
 
-  def self.dig_any(hash, default_value, *paths)
-    paths.each do |paths|
-      result = MitsParser.dig(hash, paths)
-      result = result.compact.flatten if result.is_a?(Array)
-      next if result.blank?
-      return result
+  module ApartmentSchema
+    class Base
+
+      def initialize(data)
+
+        puts "==> invoked: ApartmentSchema::Base"
+
+        # Store the unprocessed feed data.
+        @data = data
+
+      end
+
+      def parse
+        puts "==> invoked: #parse"
+        {
+          raw_feed: @data
+        }
+      end
     end
-    default_value
-  end
 
 
-  # Retrieves the value object of the specified paths. If the specified path
-  # contains an array, travarses and search on all the elements.
-  # - param data - hash, array or string
-  # - param paths - unlimited arrays of strings ["", ""], ["", ""]
-  # - return a hash of path => value
-  def self.dig_all(hash, *paths)
-    raise ArgumentError.new("paths must be an array") unless paths.is_a?(Array)
+    class WithNestedFiles < ApartmentSchema::Base
+      def initialize(data)
+        super
 
-    {}.tap do |results|
-      paths.each do |paths|
-        result = MitsParser.dig(hash, paths)
-        result = result.compact.flatten if result.is_a?(Array)
-        next if result.blank?
-        results[paths.join.underscore.to_sym] = result
+        puts "==> invoked: ApartmentSchema::WithNestedFiles"
+
+      end
+    end
+
+
+    class WithLinkedFiles < ApartmentSchema::Base
+      def initialize(data)
+        super
+
+        puts "==> invoked: ApartmentSchema::WithLinkedFiles"
+
+      end
+    end
+
+
+    class Else < ApartmentSchema::Base
+      def initialize(data)
+        super
+
+        puts "==> invoked: ApartmentSchema::Else"
+
       end
     end
   end
-
-
-  # Retrieves the value object of the specified path. If the specified path
-  # contains an array, travarses and search on all the elements.
-  # - param data - a hash, array or string
-  # - param path - an array of ["path", "to", "node"]
-  # - return value if any datatype
-  # ---
-  # NOTE: This method does something similar to what Hash#dig does but
-  # the difference is this method proceed recursively even if the path contains
-  # arrays.
-  def self.dig(data, path)
-    raise ArgumentError.new("path must be an array") unless path.is_a?(Array)
-
-    return data if path.empty?  # Base case
-
-    # Pop a node from the path list.
-    current_node, remaining_path = path[0], path[1..-1]
-
-    # Continue the process according to the current condition.
-    if current_node == "Array"
-      # Recurse on all the nodes in the array.
-      data.map { |h| MitsParser.dig(h, remaining_path) }
-    elsif data.is_a?(Hash) && (new_data = data[current_node])
-      # Recurse on the remaining path.
-      MitsParser.dig(new_data, remaining_path)
-    else
-      []
-    end
-  end
-
-
-  # Try freaking everything...ensures we pick up some weird keys in Floorplan
-  def self.brute_force_keys(key)
-    [key.singularize, key.pluralize].map do |r|
-      [r.titleize, r.camelize, r.underscore, r.tableize, r.humanize]
-    end.flatten.uniq
-  end
-
-
-
 end
 
 
@@ -126,55 +101,8 @@ end
 # ---
 
 
-module ApartmentSchema
-  class Base
-    attr_reader :properties
-
-    def initialize(parsed_feed)
-
-      puts "==> invoked: ApartmentSchema::Base"
-
-      @properties = from_xml(parsed_feed)
-
-    end
-
-    def parse
-      puts "==> invoked: #parse"
-      {
-        properties: @properties
-      }
-    end
-  end
-
-  class WithNestedFiles < ApartmentSchema::Base
-    def initialize(parsed_feed)
-      super
-
-      puts "==> invoked: ApartmentSchema::WithNestedFiles"
-
-    end
-  end
-
-  class WithLinkedFiles < ApartmentSchema::Base
-    def initialize(parsed_feed)
-      super
-
-      puts "==> invoked: ApartmentSchema::WithLinkedFiles"
-
-    end
-  end
-
-  class Else < ApartmentSchema::Base
-    def initialize(parsed_feed)
-      super
-
-      puts "==> invoked: ApartmentSchema::Else"
-
-    end
-  end
-end
-
-# Create a hash in our desired format.
+# TODO: Create a hash in our desired format.
+#
 # {
 #   :raw_hash     => @data,
 #
