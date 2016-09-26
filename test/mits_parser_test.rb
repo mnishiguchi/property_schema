@@ -2,7 +2,8 @@ require_relative "test_helper.rb"
 require_relative "../lib/mits_parser/mits_parser.rb"
 
 =begin
-How to run this test: bundle exec guard
+How to run this test:
+  bundle exec guard
 =end
 
 describe MitsParser do
@@ -43,5 +44,6 @@ describe MitsParser do
 
 
   # TODO: More tests...
+
 
 end
