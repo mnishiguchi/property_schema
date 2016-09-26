@@ -1,5 +1,5 @@
 require_relative "test_helper.rb"
-require_relative "../lib/mits_parser/mits_parser.rb"
+require_relative "../lib/mits_parser/parse_feed_hash.rb"
 
 =begin
 How to run this test:
@@ -14,14 +14,8 @@ describe MitsParser do
   end
 
   let(:all_parsed_feeds) do
-    pattern   = File.join(Dir.pwd, "test", "fixtures", "files", "feed_*.xml")
-    filenames = Dir.glob(pattern)
-
-    [].tap do |parsed_feeds|
-      filenames.each do |file|
-        parsed_feeds << from_xml(File.read(file))["PhysicalProperty"]
-      end
-    end
+    raw_rb = File.read(File.join(Dir.pwd, "test", "fixtures", "files", "all_mits_properties_data.rb"))
+    all_mits_properties_data = eval(raw_rb)
   end
 
   describe "---development---" do
@@ -36,7 +30,7 @@ describe MitsParser do
 
       puts
       all_parsed_feeds.each do |parsed_feed|
-        MitsParser.parse(parsed_feed)
+        MitsParser::ParseFeedHash.parse(parsed_feed)
         puts '-' * 50
       end
     end
